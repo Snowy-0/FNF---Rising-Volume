@@ -1,0 +1,20 @@
+bf:left bf:right
+:1:talk:0.05:normal:Bapabepeboo!
+:0:talk:0.05:normal:...
+:1:talk:0.05:normal:Bebo bedep! Boda boo?
+:0:talk:0.05:normal:Alright... fine. Admittedly... that\nwas kinda good.
+:1:talk:0.05:normal:Bapa bap!
+:1:talk:0.05:normal:Boda beep ba?
+:0:talk:0.02:normal:Y'know what? Sure. I don't think\nthe next train will be here for a little while...
+:0:talk:0.05:normal:I guess one last song wouldn't hurt.
+:1:talk:0.05:normal:Bop!
+:0:talk:0.05:normal:Show me what you got,\nblue balls!
+:1:talk:0.05:normal:Beep!
+
+
+
+
+
+
+
+

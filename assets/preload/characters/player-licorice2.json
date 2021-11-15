@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "licor idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "licor left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "licor right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-25
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "licor down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				25
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "licor up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Licorice_assets",
+	"position": [
+		50,
+		50
+	],
+	"healthicon": "licorice",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

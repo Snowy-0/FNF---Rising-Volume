@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lico_BG_train_assets.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Train Lico Intro0000" x="0" y="0" width="3130" height="635" frameX="-1206" frameY="0" frameWidth="4336" frameHeight="635"/>
+	<SubTexture name="Train Lico Intro0001" x="0" y="0" width="3130" height="635" frameX="-782" frameY="0" frameWidth="4336" frameHeight="635"/>
+	<SubTexture name="Train Lico Intro0002" x="0" y="0" width="3130" height="635" frameX="-350" frameY="0" frameWidth="4336" frameHeight="635"/>
+	<SubTexture name="Train Lico Intro0003" x="0" y="0" width="3130" height="635" frameX="0" frameY="0" frameWidth="4336" frameHeight="635"/>
+	<SubTexture name="Train Lico Loop0000" x="0" y="0" width="3130" height="635" frameX="-874" frameY="0" frameWidth="4336" frameHeight="635"/>
+	<SubTexture name="Train Lico Loop0001" x="0" y="0" width="3130" height="635" frameX="-519" frameY="0" frameWidth="4336" frameHeight="635"/>
+	<SubTexture name="Train Lico Loop0002" x="0" y="0" width="3130" height="635" frameX="0" frameY="0" frameWidth="4336" frameHeight="635"/>
+	<SubTexture name="Train Lico Loop0003" x="0" y="0" width="3130" height="635" frameX="-1058" frameY="0" frameWidth="4336" frameHeight="635"/>
+	<SubTexture name="Train Lico Loop0004" x="0" y="0" width="3130" height="635" frameX="-659" frameY="0" frameWidth="4336" frameHeight="635"/>
+	<SubTexture name="Train Lico Outro0000" x="0" y="0" width="3130" height="635" frameX="-1164" frameY="0" frameWidth="4336" frameHeight="635"/>
+	<SubTexture name="Train Lico Outro0001" x="0" y="0" width="3130" height="635" frameX="-917" frameY="0" frameWidth="4336" frameHeight="635"/>
+	<SubTexture name="Train Lico Outro0002" x="0" y="0" width="3130" height="635" frameX="-522" frameY="0" frameWidth="4336" frameHeight="635"/>
+	<SubTexture name="Train Lico Outro0003" x="0" y="0" width="3130" height="635" frameX="-274" frameY="0" frameWidth="4336" frameHeight="635"/>
+	<SubTexture name="Train Lico Outro0004" x="0" y="0" width="3130" height="635" frameX="0" frameY="0" frameWidth="4336" frameHeight="635"/>
+</TextureAtlas>

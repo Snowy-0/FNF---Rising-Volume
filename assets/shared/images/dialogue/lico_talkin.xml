@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lico_talkin.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="talk0000" x="401" y="473" width="403" height="476" pivotX="2.35" pivotY="4" frameX="0" frameY="0" frameWidth="403" frameHeight="480"/>
+	<SubTexture name="talk normal0000" x="0" y="0" width="403" height="472" pivotX="2.35" pivotY="4" frameX="0" frameY="0" frameWidth="403" frameHeight="480"/>
+	<SubTexture name="talk normal0001" x="0" y="0" width="403" height="472" frameX="0" frameY="0" frameWidth="403" frameHeight="480"/>
+	<SubTexture name="talk normal0002" x="403" y="0" width="400" height="473" frameX="-3" frameY="-2" frameWidth="403" frameHeight="480"/>
+	<SubTexture name="talk normal0003" x="403" y="0" width="400" height="473" frameX="-3" frameY="-2" frameWidth="403" frameHeight="480"/>
+	<SubTexture name="talk normal0004" x="0" y="473" width="401" height="476" frameX="-2" frameY="-4" frameWidth="403" frameHeight="480"/>
+	<SubTexture name="talk normal0005" x="0" y="473" width="401" height="476" frameX="-2" frameY="-4" frameWidth="403" frameHeight="480"/>
+	<SubTexture name="talk normal0006" x="401" y="473" width="403" height="476" frameX="0" frameY="-4" frameWidth="403" frameHeight="480"/>
+</TextureAtlas>

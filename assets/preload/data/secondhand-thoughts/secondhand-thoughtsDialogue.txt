@@ -1,0 +1,24 @@
+bf:left bf:right
+:0:talk:0.05:normal:Alright. Song's over. Gotta go.
+:1:talk:0.05:normal:Badabeep boop!
+:0:talk:0.05:normal:Dude. At least 3 trains just passed. I'm\ngonna be LATE.
+:1:talk:0.05:normal:Bapa bap!
+:0:talk:0.02:normal:What do you MEAN another song?
+:0:talk:0.05:normal:Have you been listening to me\nat all?
+:1:talk:0.05:normal:...
+:1:talk:0.05:normal:Boopity boop!
+:0:talk:0.05:normal:Nope. Not at all.
+:0:talk:0.05:normal:Is it just going through one\near and coming out the other?
+:0:talk:0.05:normal:Would make sense, all you did\nwas copy my verses.
+:1:talk:0.05:normal:Boop ba?
+:0:talk:0.05:normal:...
+:0:talk:0.05:normal:Alright, fine. One more song.
+:0:talk:0.05:normal:(...I guess his beats\nain't all bad...)
+
+
+
+
+
+
+
+
