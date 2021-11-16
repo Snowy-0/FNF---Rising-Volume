@@ -588,6 +588,29 @@ class PlayState extends MusicBeatState
 				ceilingglow.setGraphicSize(Std.int(bg.width * 0.8));
 				add(ceilingglow);
 
+			case 'paraskunk':
+				defaultCamZoom = 0.6;
+				curStage = 'bedroom';
+				var baseRoom:BGSprite = new BGSprite('baseroom', -773, -370, 0.9, 0.9);
+				baseRoom.setGraphicSize(Std.int(baseRoom.width * 1.3));
+				baseRoom.updateHitbox();
+				add(baseRoom);
+
+				var window:BGSprite = new BGSprite('window', -773, -370, 0.9, 0.9);
+				window.setGraphicSize(Std.int(window.width * 1.3));
+				window.updateHitbox();
+				add(window);
+
+				var speakers:BGSprite = new BGSprite('speakersnstuff', -773, -370, 0.9, 0.9);
+				speakers.setGraphicSize(Std.int(speakers.width * 1.3));
+				speakers.updateHitbox();
+				add(speakers);
+
+				var bed:BGSprite = new BGSprite('bed', -773, -370, 0.9, 0.9);
+				bed.setGraphicSize(Std.int(bed.width * 1.3));
+				bed.updateHitbox();
+				add(bed);
+
 			case 'skunk-showdown':
 				defaultCamZoom = 0.6;
 				curStage = 'stadium';
@@ -696,6 +719,9 @@ class PlayState extends MusicBeatState
 				DAD_X += -300;
 				DAD_Y -= -60;
 				GF_Y += 50000;
+			case 'bedroom':
+				BF_X += 330;
+				DAD_X += 270;
 		}
 
 		gf = new Character(GF_X, GF_Y, gfVersion);
@@ -765,6 +791,13 @@ class PlayState extends MusicBeatState
 				herocrowd.setGraphicSize(Std.int(herocrowd.width * 1.7));
 				herocrowd.updateHitbox();
 				add(herocrowd);
+		}
+
+		if(curStage == 'bedroom') {
+				var bedlight:BGSprite = new BGSprite('toplight', -773, -370, 0.9, 0.9);
+				bedlight.setGraphicSize(Std.int(bedlight.width * 1.3));
+				bedlight.updateHitbox();
+				add(bedlight);
 		}
 
 		foregroundGroup = new FlxTypedGroup<FlxSprite>();

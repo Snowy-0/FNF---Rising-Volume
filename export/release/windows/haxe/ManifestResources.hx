@@ -199,7 +199,7 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_secondhand_thoughts_secondhand_thoughts_hard_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_secondhand_thoughts_secondhand_thoughts_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_secondhand_thoughts_secondhand_thoughtsdialogue_txt extends null { }
-@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_shudder_blammed_json extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_shudder_shudder_hard_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_shudder_shudder_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_shudder_shudder_json_bak extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_skunk_showdown_skunk_showdown_hard_json extends null { }
@@ -432,6 +432,8 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_atmosphere_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_background_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_back_pillars_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_baseroom_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_bed_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_ceiling_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_ceiling_light_glow_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_characters_readme_txt extends null { }
@@ -447,9 +449,12 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_lico_bg_train_assets_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_lico_bg_train_assets_xml extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_lico_train_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_speakersnstuff_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_spotlight_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_subfloor_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_toplight_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_train_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_window_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_readme_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__do_not_readme_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_fonts_fonts_go_here_txt extends null { }
