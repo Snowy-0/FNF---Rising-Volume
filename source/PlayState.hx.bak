@@ -1352,34 +1352,6 @@ class PlayState extends MusicBeatState
 	{
 		startingSong = false;
 
-	var blackBox:FlxSprite = new FlxSprite(0, 200).makeGraphic(150, 70, FlxColor.BLACK);
-	blackBox.x -= blackBox.width;
-	blackBox.cameras = [camHUD];
-	blackBox.alpha = 0.6;
-	add(blackBox);
-
-	FlxTween.tween(blackBox, {x: 0}, 1, {ease:FlxEase.sineOut});
-	FlxTween.tween(blackBox, {x: -blackBox.width}, 1, {startDelay: 3, ease:FlxEase.sineOut, onComplete:
-	    function(twn:FlxTween) {
-	        blackBox.kill();
-	        remove(blackBox);
-	        blackBox.destroy();
-	    }
-	});
-
-	var text:FlxText = new FlxText(10 - blackBox.width, blackBox.height + 10, 0, PlayState.SONG + "\nArtist: Name", 16);
-	text.setFormat(Paths.font("vcr.ttf"), 16, FlxColor.WHITE);
-	text.cameras = [camHUD];
-	add(text);
-	FlxTween.tween(text, {x: 10}, 1, {ease:FlxEase.sineOut});
-	FlxTween.tween(text, {x: 10 - blackBox.width}, 1, {startDelay: 3, ease:FlxEase.sineOut, onComplete:
-	    function(twn:FlxTween) {
-	        text.kill();
-	        remove(text);
-	        text.destroy();
-	    }
-	});
-
 		previousFrameTime = FlxG.game.ticks;
 		lastReportedPlayheadPosition = 0;
 

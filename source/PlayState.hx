@@ -557,7 +557,7 @@ class PlayState extends MusicBeatState
 					add(bg);
 				}
 
-			case 'pressure' | 'secondhand-thoughts' | 'good-condition' | 'livin-it' | 'badass' | 'dancing-days' | 'cold' | 'clear-skies':
+			case 'pressure' | 'secondhand-thoughts' | 'good-condition' | 'livin-it' | 'badass' | 'dancing-days' | 'cold' | 'shudder' | 'clear-skies':
 				defaultCamZoom = 0.6;
 				curStage = 'subway';
 				var bg:BGSprite = new BGSprite('background', -773, -370, 0.9, 0.9);

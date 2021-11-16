@@ -94,6 +94,7 @@ class FreeplayState extends MusicBeatState
 		addSong('Badass', 1, 'licorice');
 		addSong('Dancing-Days', 1, 'licorice');
 		addSong('Cold', 1, 'licorice');
+		addSong('Shudder', 1, 'licorice');
 		addSong('Clear-Skies', 1, 'licorice');
 		// LOAD CHARACTERS
 

@@ -199,6 +199,9 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_secondhand_thoughts_secondhand_thoughts_hard_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_secondhand_thoughts_secondhand_thoughts_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_secondhand_thoughts_secondhand_thoughtsdialogue_txt extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_shudder_blammed_json extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_shudder_shudder_json extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_shudder_shudder_json_bak extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_skunk_showdown_skunk_showdown_hard_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_skunk_showdown_skunk_showdown_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_specialthanks_txt extends null { }
@@ -333,6 +336,8 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_pressure_voices_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_secondhand_thoughts_inst_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_secondhand_thoughts_voices_ogg extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_shudder_inst_ogg extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_shudder_voices_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_skunk_showdown_inst_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_skunk_showdown_voices_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_tutorial_inst_ogg extends null { }
