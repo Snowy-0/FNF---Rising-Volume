@@ -612,7 +612,7 @@ class PlayState extends MusicBeatState
 				add(bed);
 
 			case 'skunk-showdown':
-				defaultCamZoom = 0.6;
+				defaultCamZoom = 0.55;
 				curStage = 'stadium';
 				var heroSky:BGSprite = new BGSprite('herobgsky', -773, -370, 0.9, 0.9);
 				heroSky.setGraphicSize(Std.int(heroSky.width * 1.7));
@@ -716,12 +716,11 @@ class PlayState extends MusicBeatState
 			case 'stadium':
 				BF_X += 240;
 				BF_Y -= -60;
-				DAD_X += -300;
+				DAD_X += -230;
 				DAD_Y -= -60;
-				GF_Y += 50000;
 			case 'bedroom':
-				BF_X += 330;
-				DAD_X += 270;
+				BF_X += 350;
+				DAD_X += 290;
 		}
 
 		gf = new Character(GF_X, GF_Y, gfVersion);

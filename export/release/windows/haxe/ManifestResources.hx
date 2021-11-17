@@ -428,6 +428,7 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_week1_music_skunk_dialogue_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_week1_sounds_train_passes_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_week1_week1_stuff_here_txt extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_characters_gf_gone_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_characters_readme_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_atmosphere_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__mods_images_background_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
