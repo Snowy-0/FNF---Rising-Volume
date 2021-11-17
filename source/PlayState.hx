@@ -225,6 +225,7 @@ class PlayState extends MusicBeatState
 	public var backgroundGroup:FlxTypedGroup<FlxSprite>;
 	public var foregroundGroup:FlxTypedGroup<FlxSprite>;
 
+	private var meta:SongMetaTags;
 
 	override public function create()
 	{
@@ -892,6 +893,12 @@ class PlayState extends MusicBeatState
 
 		FlxG.fixedTimestep = false;
 
+		if(Assets.exists(Paths.txt(SONG.song.toLowerCase() + "/meta"))){
+			meta = new SongMetaTags(0, 144, SONG.song.toLowerCase());
+			meta.cameras = [camHUD];
+			add(meta);
+		}
+
 		healthBarBG = new AttachedSprite('healthBar');
 		healthBarBG.y = FlxG.height * 0.89;
 		healthBarBG.screenCenter(X);
@@ -1299,6 +1306,9 @@ class PlayState extends MusicBeatState
 				{
 					case 0:
 						FlxG.sound.play(Paths.sound('intro3' + altSuffix), 0.6);
+						if(meta != null){
+							meta.start();
+						}
 					case 1:
 						var ready:FlxSprite = new FlxSprite().loadGraphic(Paths.image(introAlts[0]));
 						ready.scrollFactor.set();

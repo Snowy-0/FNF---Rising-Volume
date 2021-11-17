@@ -27,7 +27,7 @@ class SongMetaTags extends FlxSpriteGroup
         super(_x, _y);
 
         var text = new FlxText(0, 0, 0, "", fontSize);
-        text.setFormat(Paths.font("vcr"), fontSize, FlxColor.WHITE, FlxTextAlign.LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+        text.setFormat(Paths.font("vcr.ttf"), fontSize, FlxColor.WHITE, FlxTextAlign.LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 
         text.text = Assets.getText(Paths.txt(_song.toLowerCase() + "/meta"));
 
@@ -43,17 +43,13 @@ class SongMetaTags extends FlxSpriteGroup
 
         x -= size;
         visible = false;
-        
     }
 
-
-
     public function start(){
-
         visible = true;
 
         FlxTween.tween(this, {x: x + size + (fontSize/2)}, 1, {ease: FlxEase.quintOut, onComplete: function(twn:FlxTween){
-            FlxTween.tween(this, {x: x - size}, 1, {ease: FlxEase.quintIn, startDelay: 2, onComplete: function(twn:FlxTween){ this.destroy(); }});
+            FlxTween.tween(this, {x: x - size * 2}, 1, {ease: FlxEase.quintIn, startDelay: 2, onComplete: function(twn:FlxTween){ this.destroy(); }});
         }});
 
     }
