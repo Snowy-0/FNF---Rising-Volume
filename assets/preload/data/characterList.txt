@@ -4,6 +4,7 @@ gf-gone
 licorice
 licorice2
 licorice3
+licorice4
 player-licorice
 player-licorice2
 player-licorice3

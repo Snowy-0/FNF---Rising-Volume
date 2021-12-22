@@ -36,6 +36,7 @@ class CreditsState extends MusicBeatState
 		['speezy', 				'speezy',		"Composer", 										'https://www.youtube.com/channel/UC-1x3oXA1mKe0V1Dm2QU8bw',		0xFF6475F3],
 		['AsheNya',				'molly',		"Composer",											'https://twitter.com/AsheyNya',			0xFF6475F3],
 		['Breezy',				'breezy',		"Programming Help",									'https://twitter.com/BreezyMelee',		0xFF6475F3],
+		['Shubs',				'shubs',		"Programming Help",									'https://twitter.com/yoshubs',			0xFF6475F3],
 		[''],
 		['Psych Engine Team'],
 		['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	0xFFFFDD33],

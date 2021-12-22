@@ -1,24 +1,21 @@
-bf:left bf:right
-:0:talk:0.05:normal:Ugh. Running was a terrible damn idea.
+licorice:left bf:right
 :1:talk:0.05:normal:Beep!
-:0:talk:0.05:normal:...?
-:1:talk:0.05:normal:boop bep bababeep!
-:0:talk:0.05:normal:...oh. It's you. Been seeing you\neverywhere.
-:0:talk:0.05:normal:(What could HE of all people want?)
+:0:talk:0.05:annoyed:...oh. It's you. Been seeing your\n face plastered everywhere.
+:0:talk:0.05:confused:What do you want? I have places to\nbe, shortstack.
 :1:talk:0.05:normal:Bapa beepee biribop!
-:0:talk:0.05:normal:...
-:0:talk:0.05:normal:Excuse me?
+:0:talk:0.03:confusedIdle:...
+:0:talk:0.05:confused:Excuse me?
 :1:talk:0.05:normal:Beepee biribop!
-:0:talk:0.05:normal:...A rap battle?
-:0:talk:0.05:normal:...Alright, answer me this.
-:0:talk:0.05:normal:Name one song of mines that has lyrics.
+:0:talk:0.05:confused:...A rap battle?
+:0:talk:0.05:annoyed:...Alright, answer me this.
+:0:talk:0.05:annoyed:Name one song of mines that has lyrics.
 :1:talk:0.05:normal:...
-:0:talk:0.05:normal:None, right? Exactly. Now if you'll excuse\nme--
+:0:talk:0.05:behind:None, right? Exactly. Glad you got\nthe memo. Now if you'll excuse me--
 :1:talk:0.05:normal:Bep?
-:0:talk:0.05:normal:...
-:0:talk:0.05:normal:If I do one song, will you go\naway? I got places to be.
+:0:talk:0.05:annoyedIdle:...
+:0:talk:0.05:annoyed:If I do one song, will you go\naway? I got places to be.
 :1:talk:0.05:normal:Beep!
-:0:talk:0.05:normal:Fine. But just one.
+:0:talk:0.05:annoyed:Fine. But just one.
 
 
 

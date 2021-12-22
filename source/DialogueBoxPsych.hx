@@ -55,9 +55,30 @@ class DialogueBoxPsych extends FlxSpriteGroup
 				char.y -= 140;
 
 			case 'licorice':
-				char.frames = Paths.getSparrowAtlas('dialogue/lico_talkin');
-				char.animation.addByPrefix('talkIdle', 'talk', 24, true); //Dialogue ended
-				char.animation.addByPrefix('talk', 'talk normal', 24, true); //During dialogue
+				char.frames = Paths.getSparrowAtlas('dialogue/lico-dialoguesprites');
+				char.animation.addByPrefix('talkIdle', 'lico-neutral-still', 24, true); //Dialogue ended
+				char.animation.addByPrefix('talk', 'lico-neutral-speaking', 24, true); //During dialogue
+				char.animation.addByPrefix('annoyedIdle', 'lico-annoyed-still', 24, true);
+				char.animation.addByPrefix('annoyed', 'lico-annoyed-speaking', 24, true);
+				char.animation.addByPrefix('cautiousIdle', 'lico-cautious-still', 24, true);
+				char.animation.addByPrefix('cautious', 'lico-cautious-speaking', 24, true);
+				char.animation.addByPrefix('cockyIdle', 'lico-cocky-still', 24, true);
+				char.animation.addByPrefix('cocky', 'lico-cocky-speaking', 24, true);
+				char.animation.addByPrefix('behindIdle', 'lico-looking behind-still', 24, true);
+				char.animation.addByPrefix('behind', 'lico-looking behind-speaking', 24, true);
+				char.animation.addByPrefix('overitIdle', 'lico-overit-still', 24, true);
+				char.animation.addByPrefix('overit', 'lico-overit-speaking', 24, true);
+				char.animation.addByPrefix('phoneIdle', 'lico-phone-still', 24, true);
+				char.animation.addByPrefix('phone', 'lico-phone-speaking', 24, true);
+				char.animation.addByPrefix('shrugIdle', 'lico-shrugging-still', 24, true);
+				char.animation.addByPrefix('shrug', 'lico-shrugging-speaking', 24, true);
+				char.animation.addByPrefix('smileIdle', 'lico-smile-still', 24, true);
+				char.animation.addByPrefix('smile', 'lico-smile-speaking', 24, true);
+				char.animation.addByPrefix('tired', 'lico-tired', 24, true);
+				char.animation.addByPrefix('weirdIdle', 'lico-weird-still', 24, true);
+				char.animation.addByPrefix('weird', 'lico-weird-speaking', 24, true);
+				char.x -= 50;
+				char.y -= 120;
 		}
 		char.animation.play('talkIdle', true);
 	}

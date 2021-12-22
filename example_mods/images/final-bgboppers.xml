@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="final-bgboppers.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RV-boppers0000" x="2822" y="3520" width="2823" height="1169" frameX="0" frameY="-6" frameWidth="2823" frameHeight="1175"/>
+	<SubTexture name="RV-boppers0001" x="2822" y="3520" width="2823" height="1169" frameX="0" frameY="-6" frameWidth="2823" frameHeight="1175"/>
+	<SubTexture name="RV-boppers0002" x="0" y="1175" width="2820" height="1172" frameX="0" frameY="-3" frameWidth="2823" frameHeight="1175"/>
+	<SubTexture name="RV-boppers0003" x="0" y="1175" width="2820" height="1172" frameX="0" frameY="-3" frameWidth="2823" frameHeight="1175"/>
+	<SubTexture name="RV-boppers0004" x="2822" y="2348" width="2820" height="1172" frameX="0" frameY="-3" frameWidth="2823" frameHeight="1175"/>
+	<SubTexture name="RV-boppers0005" x="2822" y="2348" width="2820" height="1172" frameX="0" frameY="-3" frameWidth="2823" frameHeight="1175"/>
+	<SubTexture name="RV-boppers0006" x="0" y="0" width="2820" height="1175" frameX="0" frameY="0" frameWidth="2823" frameHeight="1175"/>
+	<SubTexture name="RV-boppers0007" x="0" y="0" width="2820" height="1175" frameX="0" frameY="0" frameWidth="2823" frameHeight="1175"/>
+	<SubTexture name="RV-boppers0008" x="2820" y="0" width="2822" height="1174" frameX="0" frameY="-1" frameWidth="2823" frameHeight="1175"/>
+	<SubTexture name="RV-boppers0009" x="2820" y="0" width="2822" height="1174" frameX="0" frameY="-1" frameWidth="2823" frameHeight="1175"/>
+	<SubTexture name="RV-boppers0010" x="2820" y="1174" width="2822" height="1174" frameX="0" frameY="-1" frameWidth="2823" frameHeight="1175"/>
+	<SubTexture name="RV-boppers0011" x="2820" y="1174" width="2822" height="1174" frameX="0" frameY="-1" frameWidth="2823" frameHeight="1175"/>
+	<SubTexture name="RV-boppers0012" x="0" y="2348" width="2822" height="1174" frameX="0" frameY="-1" frameWidth="2823" frameHeight="1175"/>
+	<SubTexture name="RV-boppers0013" x="0" y="2348" width="2822" height="1174" frameX="0" frameY="-1" frameWidth="2823" frameHeight="1175"/>
+</TextureAtlas>

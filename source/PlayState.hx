@@ -499,11 +499,11 @@ class PlayState extends MusicBeatState
 				bgTrees.antialiasing = false;
 
 				if(!ClientPrefs.lowQuality) {
-					var treeLeaves:BGSprite = new BGSprite('weeb/petals', repositionShit, -40, 0.85, 0.85, ['PETALS ALL'], true);
-					treeLeaves.setGraphicSize(widShit);
-					treeLeaves.updateHitbox();
-					add(treeLeaves);
-					treeLeaves.antialiasing = false;
+					var bgBoppers:BGSprite = new BGSprite('weeb/petals', repositionShit, -40, 0.85, 0.85, ['PETALS ALL'], true);
+					bgBoppers.setGraphicSize(widShit);
+					bgBoppers.updateHitbox();
+					add(bgBoppers);
+					bgBoppers.antialiasing = false;
 				}
 
 				bgSky.setGraphicSize(widShit);
@@ -565,6 +565,12 @@ class PlayState extends MusicBeatState
 				bg.setGraphicSize(Std.int(bg.width * 1.0));
 				bg.updateHitbox();
 				add(bg);
+				
+				var bgBoppers:BGSprite = new BGSprite('final-bgboppers', -40, -10, 0.85, 0.85, ['RV-boppers'], false);
+				bgBoppers.setGraphicSize(Std.int(bg.width * 0.43));
+				bgBoppers.updateHitbox();
+				add(bgBoppers);
+				bgBoppers.antialiasing = false;
 
 				subwayTrain = new BGSprite('lico_train', 4000, 180);
 				subwayTrain.scale.set(1.4, 1.4);
@@ -616,22 +622,22 @@ class PlayState extends MusicBeatState
 				defaultCamZoom = 0.55;
 				curStage = 'stadium';
 				var heroSky:BGSprite = new BGSprite('herobgsky', -773, -370, 0.9, 0.9);
-				heroSky.setGraphicSize(Std.int(heroSky.width * 1.7));
+				heroSky.setGraphicSize(Std.int(heroSky.width * 1.8));
 				heroSky.updateHitbox();
 				add(heroSky);
 
 				var heroCityback:BGSprite = new BGSprite('herobgcityback', -773, -370, 0.9, 0.9);
-				heroCityback.setGraphicSize(Std.int(heroCityback.width * 1.7));
+				heroCityback.setGraphicSize(Std.int(heroCityback.width * 1.8));
 				heroCityback.updateHitbox();
 				add(heroCityback);
 
 				var heroCity:BGSprite = new BGSprite('herobgcityfront', -773, -370, 0.9, 0.9);
-				heroCity.setGraphicSize(Std.int(heroCity.width * 1.7));
+				heroCity.setGraphicSize(Std.int(heroCity.width * 1.8));
 				heroCity.updateHitbox();
 				add(heroCity);
 
 				var heroBG:BGSprite = new BGSprite('herobgstage', -773, -370, 0.9, 0.9);
-				heroBG.setGraphicSize(Std.int(heroBG.width * 1.7));
+				heroBG.setGraphicSize(Std.int(heroBG.width * 1.8));
 				heroBG.updateHitbox();
 				add(heroBG);
 
@@ -715,10 +721,10 @@ class PlayState extends MusicBeatState
 				BF_X += 100;
 				DAD_X += -100;
 			case 'stadium':
-				BF_X += 240;
-				BF_Y -= -60;
-				DAD_X += -230;
-				DAD_Y -= -60;
+				BF_X += 280;
+				BF_Y -= -90;
+				DAD_X += -190;
+				DAD_Y -= -90;
 			case 'bedroom':
 				BF_X += 350;
 				DAD_X += 290;
@@ -783,12 +789,12 @@ class PlayState extends MusicBeatState
 
 		if(curStage == 'stadium') {
 				var herolights:BGSprite = new BGSprite('herobglights', -773, -370, 0.9, 0.9);
-				herolights.setGraphicSize(Std.int(herolights.width * 1.7));
+				herolights.setGraphicSize(Std.int(herolights.width * 1.8));
 				herolights.updateHitbox();
 				add(herolights);
 
 				var herocrowd:BGSprite = new BGSprite('herobgcrowd', -773, -370, 0.9, 0.9);
-				herocrowd.setGraphicSize(Std.int(herocrowd.width * 1.7));
+				herocrowd.setGraphicSize(Std.int(herocrowd.width * 1.8));
 				herocrowd.updateHitbox();
 				add(herocrowd);
 		}

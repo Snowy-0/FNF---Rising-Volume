@@ -98,7 +98,7 @@ class FreeplayState extends MusicBeatState
 		addSong('Clear-Skies', 1, 'licorice');
 		// LOAD CHARACTERS
 
-		bg = new FlxSprite().loadGraphic(Paths.image('freeplaymenu'));
+		bg = new FlxSprite().loadGraphic(Paths.image('menuDesat'));
 		add(bg);
 
 		grpSongs = new FlxTypedGroup<Alphabet>();
