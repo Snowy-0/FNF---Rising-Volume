@@ -55,7 +55,7 @@ class DialogueBoxPsych extends FlxSpriteGroup
 				char.y -= 140;
 
 			case 'licorice':
-				char.frames = Paths.getSparrowAtlas('dialogue/lico-dialoguesprites');
+				char.frames = Paths.getSparrowAtlas('lico-dialoguesprites');
 				char.animation.addByPrefix('talkIdle', 'lico-neutral-still', 24, true); //Dialogue ended
 				char.animation.addByPrefix('talk', 'lico-neutral-speaking', 24, true); //During dialogue
 				char.animation.addByPrefix('annoyedIdle', 'lico-annoyed-still', 24, true);
