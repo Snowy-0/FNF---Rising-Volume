@@ -558,19 +558,13 @@ class PlayState extends MusicBeatState
 					add(bg);
 				}
 
-			case 'pressure' | 'secondhand-thoughts' | 'good-condition' | 'livin-it' | 'badass' | 'dancing-days' | 'cold' | 'shudder' | 'clear-skies':
-				defaultCamZoom = 0.6;
+			case 'pressure' | 'secondhand-thoughts' | 'good-condition' | 'livin-it' | 'badass' | 'dancing-days' | 'cold' | 'shudder' | 'clear-skies' | 'drowzy' | 'edge':
+				defaultCamZoom = 0.5;
 				curStage = 'subway';
 				var bg:BGSprite = new BGSprite('background', -773, -370, 0.9, 0.9);
 				bg.setGraphicSize(Std.int(bg.width * 1.0));
 				bg.updateHitbox();
 				add(bg);
-				
-				var bgBoppers:BGSprite = new BGSprite('final-bgboppers', -40, -10, 0.85, 0.85, ['RV-boppers'], false);
-				bgBoppers.setGraphicSize(Std.int(bg.width * 0.43));
-				bgBoppers.updateHitbox();
-				add(bgBoppers);
-				bgBoppers.antialiasing = false;
 
 				subwayTrain = new BGSprite('lico_train', 4000, 180);
 				subwayTrain.scale.set(1.4, 1.4);
