@@ -146,6 +146,7 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_drowzy_meta_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_edge_edge_hard_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_edge_edge_json extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_edge_events_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_edge_meta_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_freeplaycolors_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_freeplaysonglist_txt extends null { }
@@ -163,6 +164,9 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_livin_it_livin_itdialogue_txt_bak extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_livin_it_meta_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_main_view_xml extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_new_2me_meta_txt extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_new_2me_new_2me_hard_json extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_new_2me_new_2me_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_paraskunk_events_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_paraskunk_meta_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_paraskunk_paraskunk_hard_json extends null { }
@@ -350,6 +354,8 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_good_condition_voices_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_livin_it_inst_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_livin_it_voices_ogg extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_new_2me_inst_ogg extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_new_2me_voices_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_paraskunk_inst_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_paraskunk_voices_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_pressure_inst_ogg extends null { }
