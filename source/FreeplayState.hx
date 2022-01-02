@@ -98,6 +98,7 @@ class FreeplayState extends MusicBeatState
 		addSong('Clear-Skies', 1, 'licorice');
 		addSong('Edge', 1, 'licorice');
 		addSong('Drowzy', 1, 'licorice');
+		addSong('New-2Me', 1, 'licorice');
 		// LOAD CHARACTERS
 
 		bg = new FlxSprite().loadGraphic(Paths.image('menuDesat'));

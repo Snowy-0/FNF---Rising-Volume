@@ -559,12 +559,20 @@ class PlayState extends MusicBeatState
 				}
 
 			case 'pressure' | 'secondhand-thoughts' | 'good-condition' | 'livin-it' | 'badass' | 'dancing-days' | 'cold' | 'shudder' | 'clear-skies' | 'drowzy' | 'edge':
-				defaultCamZoom = 0.5;
+				defaultCamZoom = 0.6;
 				curStage = 'subway';
 				var bg:BGSprite = new BGSprite('background', -773, -370, 0.9, 0.9);
 				bg.setGraphicSize(Std.int(bg.width * 1.0));
 				bg.updateHitbox();
 				add(bg);
+				
+				var benches:BGSprite = new BGSprite('benches', -800, -405, 0.95, 0.98);
+				benches.setGraphicSize(Std.int(bg.width * 0.8));
+				add(benches);
+				
+				var trash:BGSprite = new BGSprite('trashbins', -800, -605, 0.95, 0.98);
+				trash.setGraphicSize(Std.int(bg.width * 0.25));
+				add(trash);
 
 				subwayTrain = new BGSprite('lico_train', 4000, 180);
 				subwayTrain.scale.set(1.4, 1.4);
@@ -576,6 +584,14 @@ class PlayState extends MusicBeatState
 		
 				var subfloor:BGSprite = new BGSprite('subfloor', -800, -350, 0.95, 0.98);
 				add(subfloor);
+				
+				var terminal:BGSprite = new BGSprite('sign', -800, -405, 0.95, 0.98);
+				terminal.setGraphicSize(Std.int(bg.width * 0.8));
+				add(terminal);
+				
+				var adscreens:BGSprite = new BGSprite('adscreens', -750, -355, 0.95, 0.98);
+				adscreens.setGraphicSize(Std.int(bg.width * 0.8));
+				add(adscreens);
 
 				var pillars:BGSprite = new BGSprite('front_pillars', -800, -550, 0.95, 0.98);
 				pillars.setGraphicSize(Std.int(bg.width * 0.9));
