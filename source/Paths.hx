@@ -119,6 +119,12 @@ class Paths
 	{
 		return 'songs:assets/songs/${song.toLowerCase()}/Inst.$SOUND_EXT';
 	}
+	
+	inline static public function video(key:String, ?library:String)
+	{
+		return getPath('videos/$key.mp4', BINARY, library);
+	}
+
 
 	inline static public function image(key:String, ?library:String):Dynamic
 	{

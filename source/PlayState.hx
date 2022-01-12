@@ -226,6 +226,33 @@ class PlayState extends MusicBeatState
 	public var foregroundGroup:FlxTypedGroup<FlxSprite>;
 
 	private var meta:SongMetaTags;
+	
+	var video:MP4Handler;
+
+	function playCutscene(name:String)
+	{
+		inCutscene = true;
+
+		video = new MP4Handler();
+		video.finishCallback = function()
+		{
+			startCountdown();
+		}
+		video.playVideo(Paths.video(name));
+	}
+
+	function playEndCutscene(name:String)
+	{
+		inCutscene = true;
+
+		video = new MP4Handler();
+		video.finishCallback = function()
+		{
+			SONG = Song.loadFromJson(storyPlaylist[0].toLowerCase());
+			LoadingState.loadAndSwitchState(new PlayState());
+		}
+		video.playVideo(Paths.video(name));
+	}
 
 	override public function create()
 	{
@@ -1063,8 +1090,12 @@ class PlayState extends MusicBeatState
 				case 'senpai' | 'roses' | 'thorns':
 					if(daSong == 'roses') FlxG.sound.play(Paths.sound('ANGRY'));
 					schoolIntro(doof);
+					
+				case 'pressure':
+					playCutscene('cutscene');
+					dialogueIntro(dialogue, 'skunk-dialogue');
 
-				case 'pressure' | 'secondhand-thoughts' | 'good-condition' | 'livin-it':
+				case 'secondhand-thoughts' | 'good-condition' | 'livin-it':
 					dialogueIntro(dialogue, 'skunk-dialogue');
 
 				default:
@@ -1405,6 +1436,7 @@ class PlayState extends MusicBeatState
 
 	function startSong():Void
 	{
+		
 		startingSong = false;
 
 		if(meta != null){

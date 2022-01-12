@@ -1,15 +1,15 @@
 licorice:left bf:right
 :1:talk:0.05:normal:Bapabepeboo!
-:0:talk:0.05:smileIdle:...
+:0:smile:0.05:smileIdle:...
 :1:talk:0.05:normal:Bebo bedep! Boda boo?
-:0:talk:0.05:smile:Alright... fine. Admittedly... that\nwas kinda good.
+:0:smile:0.05:smile:Alright... fine. Admittedly... that\nwas kinda good.
 :1:talk:0.05:normal:Bapa bap!
 :1:talk:0.05:normal:Boda beep ba?
-:0:talk:0.05:smile:Y'know what? Sure. I know I said until\n the next train arrives...
-:0:talk:0.05:smile:Buuut it already passed cuz we\nlost track, so...
-:0:talk:0.05:smile:I guess one last song\nfor the wait wouldn't hurt.
+:0:smile:0.05:smile:Y'know what? Sure. I know I said until\n the next train arrives...
+:0:smile:0.05:smile:Buuut it already passed cuz we\nlost track, so...
+:0:smile:0.05:smile:I guess one last song\nfor the wait wouldn't hurt.
 :1:talk:0.05:normal:Bop!
-:0:talk:0.05:cocky:Show me what you got,\nblue balls!
+:0:cocky:0.05:cocky:Show me what you got,\nblue balls!
 :1:talk:0.05:normal:Beep!
 
 
