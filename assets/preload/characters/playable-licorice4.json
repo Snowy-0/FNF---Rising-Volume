@@ -62,6 +62,7 @@
 		80,
 		27
 	],
+	"healthicon": "licorice",
 	"flip_x": false,
 	"healthbar_colors": [
 		0,
