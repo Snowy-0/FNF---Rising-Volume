@@ -236,7 +236,7 @@ class PlayState extends MusicBeatState
 		video = new MP4Handler();
 		video.finishCallback = function()
 		{
-			startCountdown();
+			dialogueIntro(dialogue, 'skunk-dialogue');
 		}
 		video.playVideo(Paths.video(name));
 	}
@@ -1093,7 +1093,6 @@ class PlayState extends MusicBeatState
 					
 				case 'pressure':
 					playCutscene('cutscene');
-					dialogueIntro(dialogue, 'skunk-dialogue');
 
 				case 'secondhand-thoughts' | 'good-condition' | 'livin-it':
 					dialogueIntro(dialogue, 'skunk-dialogue');
