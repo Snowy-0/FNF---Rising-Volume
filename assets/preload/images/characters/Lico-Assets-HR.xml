@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lico-Assets-HR.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lico-Death0000" x="5" y="5" width="335" height="746" frameX="-57" frameY="-77" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0001" x="5" y="5" width="335" height="746" frameX="-57" frameY="-77" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0002" x="5" y="5" width="335" height="746" frameX="-57" frameY="-77" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0003" x="5" y="5" width="335" height="746" frameX="-57" frameY="-77" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0004" x="355" y="5" width="335" height="736" frameX="-57" frameY="-87" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0005" x="355" y="5" width="335" height="736" frameX="-57" frameY="-87" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0006" x="705" y="5" width="335" height="731" frameX="-57" frameY="-92" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0007" x="1055" y="5" width="335" height="729" frameX="-57" frameY="-94" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0008" x="1055" y="5" width="335" height="729" frameX="-57" frameY="-94" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0009" x="1405" y="5" width="385" height="678" frameX="-29" frameY="-143" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0010" x="1405" y="5" width="385" height="678" frameX="-29" frameY="-143" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0011" x="1805" y="5" width="411" height="678" frameX="0" frameY="-143" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0012" x="2231" y="5" width="411" height="678" frameX="0" frameY="-143" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0013" x="2657" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0014" x="2657" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0015" x="2657" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0016" x="2657" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0017" x="2657" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0018" x="2657" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0019" x="2657" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0020" x="2657" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0021" x="2657" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0022" x="2657" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0023" x="2657" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0024" x="2657" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0025" x="2657" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0026" x="2657" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0027" x="2657" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0028" x="3083" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0029" x="3083" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0030" x="3083" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0031" x="3509" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0032" x="3509" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0033" x="3935" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0034" x="3935" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0035" x="3935" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0036" x="4361" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0037" x="4361" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0038" x="4787" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0039" x="4787" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0040" x="5213" y="5" width="411" height="691" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0041" x="5213" y="5" width="411" height="691" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0042" x="5639" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0043" x="6065" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0044" x="6491" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0045" x="6917" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0046" x="7343" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0047" x="7769" y="5" width="411" height="682" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0048" x="5" y="766" width="411" height="692" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0049" x="431" y="766" width="411" height="709" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0050" x="431" y="766" width="411" height="709" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0051" x="857" y="766" width="411" height="716" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0052" x="857" y="766" width="411" height="716" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0053" x="1283" y="766" width="411" height="726" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0054" x="1709" y="766" width="411" height="727" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0055" x="1709" y="766" width="411" height="727" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0056" x="1709" y="766" width="411" height="727" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0057" x="1709" y="766" width="411" height="727" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0058" x="1709" y="766" width="411" height="727" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0059" x="1709" y="766" width="411" height="727" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0060" x="1709" y="766" width="411" height="727" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0061" x="1709" y="766" width="411" height="727" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0062" x="1709" y="766" width="411" height="727" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0063" x="1709" y="766" width="411" height="727" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0064" x="1709" y="766" width="411" height="727" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0065" x="1709" y="766" width="411" height="727" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0066" x="1709" y="766" width="411" height="727" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0067" x="1709" y="766" width="411" height="727" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0068" x="1709" y="766" width="411" height="727" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0069" x="1709" y="766" width="411" height="727" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0070" x="2135" y="766" width="411" height="727" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0071" x="2135" y="766" width="411" height="727" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0072" x="2135" y="766" width="411" height="727" frameX="0" frameY="-139" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0073" x="2561" y="766" width="427" height="734" frameX="0" frameY="-132" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0074" x="2561" y="766" width="427" height="734" frameX="0" frameY="-132" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0075" x="2561" y="766" width="427" height="734" frameX="0" frameY="-132" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0076" x="3003" y="766" width="501" height="833" frameX="0" frameY="-33" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0077" x="3003" y="766" width="501" height="833" frameX="0" frameY="-33" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0078" x="3519" y="766" width="516" height="847" frameX="0" frameY="-19" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0079" x="3519" y="766" width="516" height="847" frameX="0" frameY="-19" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0080" x="4050" y="766" width="538" height="866"/>
+	<SubTexture name="Lico-Death0081" x="4050" y="766" width="538" height="866"/>
+	<SubTexture name="Lico-Death0082" x="4603" y="766" width="534" height="862" frameX="0" frameY="-4" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0083" x="4603" y="766" width="534" height="862" frameX="0" frameY="-4" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0084" x="4603" y="766" width="534" height="862" frameX="0" frameY="-4" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0085" x="4603" y="766" width="534" height="862" frameX="0" frameY="-4" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0086" x="4603" y="766" width="534" height="862" frameX="0" frameY="-4" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0087" x="4603" y="766" width="534" height="862" frameX="0" frameY="-4" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0088" x="4603" y="766" width="534" height="862" frameX="0" frameY="-4" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0089" x="4603" y="766" width="534" height="862" frameX="0" frameY="-4" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0090" x="5152" y="766" width="534" height="862" frameX="0" frameY="-4" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0091" x="5152" y="766" width="534" height="862" frameX="0" frameY="-4" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0092" x="5701" y="766" width="534" height="862" frameX="0" frameY="-4" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0093" x="5701" y="766" width="534" height="862" frameX="0" frameY="-4" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0094" x="6250" y="766" width="534" height="862" frameX="0" frameY="-4" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0095" x="6250" y="766" width="534" height="862" frameX="0" frameY="-4" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0096" x="6799" y="766" width="534" height="862" frameX="0" frameY="-4" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0097" x="6799" y="766" width="534" height="862" frameX="0" frameY="-4" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0098" x="6799" y="766" width="534" height="862" frameX="0" frameY="-4" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0099" x="6799" y="766" width="534" height="862" frameX="0" frameY="-4" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0100" x="6799" y="766" width="534" height="862" frameX="0" frameY="-4" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0101" x="6799" y="766" width="534" height="862" frameX="0" frameY="-4" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death0102" x="6799" y="766" width="534" height="862" frameX="0" frameY="-4" frameWidth="538" frameHeight="866"/>
+	<SubTexture name="Lico-Death Loop0000" x="7348" y="766" width="565" height="862" frameX="-85" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0001" x="7348" y="766" width="565" height="862" frameX="-85" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0002" x="5" y="1647" width="605" height="862" frameX="-45" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0003" x="5" y="1647" width="605" height="862" frameX="-45" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0004" x="625" y="1647" width="586" height="862" frameX="-64" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0005" x="1226" y="1647" width="586" height="862" frameX="-64" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0006" x="1827" y="1647" width="650" height="862"/>
+	<SubTexture name="Lico-Death Loop0007" x="1827" y="1647" width="650" height="862"/>
+	<SubTexture name="Lico-Death Loop0008" x="2492" y="1647" width="645" height="862" frameX="-5" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0009" x="2492" y="1647" width="645" height="862" frameX="-5" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0010" x="3152" y="1647" width="606" height="862" frameX="-44" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0011" x="3773" y="1647" width="606" height="862" frameX="-44" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0012" x="3773" y="1647" width="606" height="862" frameX="-44" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0013" x="4394" y="1647" width="606" height="862" frameX="-44" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0014" x="4394" y="1647" width="606" height="862" frameX="-44" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0015" x="5015" y="1647" width="606" height="862" frameX="-44" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0016" x="5636" y="1647" width="565" height="862" frameX="-85" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0017" x="5636" y="1647" width="565" height="862" frameX="-85" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0018" x="6216" y="1647" width="605" height="862" frameX="-45" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0019" x="6216" y="1647" width="605" height="862" frameX="-45" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0020" x="6836" y="1647" width="586" height="862" frameX="-64" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0021" x="7437" y="1647" width="586" height="862" frameX="-64" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0022" x="5" y="2524" width="650" height="862"/>
+	<SubTexture name="Lico-Death Loop0023" x="5" y="2524" width="650" height="862"/>
+	<SubTexture name="Lico-Death Loop0024" x="670" y="2524" width="645" height="862" frameX="-5" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0025" x="670" y="2524" width="645" height="862" frameX="-5" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0026" x="1330" y="2524" width="606" height="862" frameX="-44" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0027" x="1951" y="2524" width="606" height="862" frameX="-44" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0028" x="2572" y="2524" width="606" height="862" frameX="-44" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0029" x="3193" y="2524" width="606" height="862" frameX="-44" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0030" x="3193" y="2524" width="606" height="862" frameX="-44" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-Death Loop0031" x="3814" y="2524" width="606" height="862" frameX="-44" frameY="0" frameWidth="650" frameHeight="862"/>
+	<SubTexture name="Lico-DownHR0000" x="4435" y="2524" width="362" height="652"/>
+	<SubTexture name="Lico-DownHR0001" x="4435" y="2524" width="362" height="652"/>
+	<SubTexture name="Lico-DownHR0002" x="4812" y="2524" width="357" height="650" frameX="0" frameY="-2" frameWidth="362" frameHeight="652"/>
+	<SubTexture name="Lico-DownHR0003" x="5184" y="2524" width="357" height="650" frameX="0" frameY="-2" frameWidth="362" frameHeight="652"/>
+	<SubTexture name="Lico-DownHR0004" x="5184" y="2524" width="357" height="650" frameX="0" frameY="-2" frameWidth="362" frameHeight="652"/>
+	<SubTexture name="Lico-DownHR0005" x="5184" y="2524" width="357" height="650" frameX="0" frameY="-2" frameWidth="362" frameHeight="652"/>
+	<SubTexture name="Lico-DownHR0006" x="5184" y="2524" width="357" height="650" frameX="0" frameY="-2" frameWidth="362" frameHeight="652"/>
+	<SubTexture name="Lico-DownHR0007" x="5184" y="2524" width="357" height="650" frameX="0" frameY="-2" frameWidth="362" frameHeight="652"/>
+	<SubTexture name="Lico-DownHR0008" x="5184" y="2524" width="357" height="650" frameX="0" frameY="-2" frameWidth="362" frameHeight="652"/>
+	<SubTexture name="Lico-DownHR0009" x="5184" y="2524" width="357" height="650" frameX="0" frameY="-2" frameWidth="362" frameHeight="652"/>
+	<SubTexture name="Lico-DownHR0010" x="5184" y="2524" width="357" height="650" frameX="0" frameY="-2" frameWidth="362" frameHeight="652"/>
+	<SubTexture name="Lico-DownHR0011" x="5184" y="2524" width="357" height="650" frameX="0" frameY="-2" frameWidth="362" frameHeight="652"/>
+	<SubTexture name="Lico-DownHR0012" x="5184" y="2524" width="357" height="650" frameX="0" frameY="-2" frameWidth="362" frameHeight="652"/>
+	<SubTexture name="Lico-DownHR0013" x="5184" y="2524" width="357" height="650" frameX="0" frameY="-2" frameWidth="362" frameHeight="652"/>
+	<SubTexture name="Lico-DownHR0014" x="5184" y="2524" width="357" height="650" frameX="0" frameY="-2" frameWidth="362" frameHeight="652"/>
+	<SubTexture name="Lico-DownHR0015" x="5184" y="2524" width="357" height="650" frameX="0" frameY="-2" frameWidth="362" frameHeight="652"/>
+	<SubTexture name="Lico-DownMissHR0000" x="5556" y="2524" width="380" height="687"/>
+	<SubTexture name="Lico-DownMissHR0001" x="5951" y="2524" width="380" height="684" frameX="0" frameY="-3" frameWidth="380" frameHeight="687"/>
+	<SubTexture name="Lico-DownMissHR0002" x="6346" y="2524" width="380" height="687"/>
+	<SubTexture name="Lico-DownMissHR0003" x="6741" y="2524" width="380" height="684" frameX="0" frameY="-3" frameWidth="380" frameHeight="687"/>
+	<SubTexture name="Lico-DownMissHR0004" x="7136" y="2524" width="380" height="687"/>
+	<SubTexture name="Lico-DownMissHR0005" x="6741" y="2524" width="380" height="684" frameX="0" frameY="-3" frameWidth="380" frameHeight="687"/>
+	<SubTexture name="Lico-DownMissHR0006" x="7136" y="2524" width="380" height="687"/>
+	<SubTexture name="Lico-DownMissHR0007" x="6741" y="2524" width="380" height="684" frameX="0" frameY="-3" frameWidth="380" frameHeight="687"/>
+	<SubTexture name="Lico-DownMissHR0008" x="7136" y="2524" width="380" height="687"/>
+	<SubTexture name="Lico-DownMissHR0009" x="6741" y="2524" width="380" height="684" frameX="0" frameY="-3" frameWidth="380" frameHeight="687"/>
+	<SubTexture name="Lico-DownMissHR0010" x="7136" y="2524" width="380" height="687"/>
+	<SubTexture name="Lico-DownMissHR0011" x="6741" y="2524" width="380" height="684" frameX="0" frameY="-3" frameWidth="380" frameHeight="687"/>
+	<SubTexture name="Lico-DownMissHR0012" x="7136" y="2524" width="380" height="687"/>
+	<SubTexture name="Lico-DownMissHR0013" x="6741" y="2524" width="380" height="684" frameX="0" frameY="-3" frameWidth="380" frameHeight="687"/>
+	<SubTexture name="Lico-DownMissHR0014" x="7136" y="2524" width="380" height="687"/>
+	<SubTexture name="Lico-DownMissHR0015" x="6741" y="2524" width="380" height="684" frameX="0" frameY="-3" frameWidth="380" frameHeight="687"/>
+	<SubTexture name="Lico-IdleHR0000" x="7531" y="2524" width="451" height="735" frameX="-94" frameY="-12" frameWidth="545" frameHeight="747"/>
+	<SubTexture name="Lico-IdleHR0001" x="7531" y="2524" width="451" height="735" frameX="-94" frameY="-12" frameWidth="545" frameHeight="747"/>
+	<SubTexture name="Lico-IdleHR0002" x="5" y="3401" width="496" height="737" frameX="-49" frameY="-10" frameWidth="545" frameHeight="747"/>
+	<SubTexture name="Lico-IdleHR0003" x="5" y="3401" width="496" height="737" frameX="-49" frameY="-10" frameWidth="545" frameHeight="747"/>
+	<SubTexture name="Lico-IdleHR0004" x="516" y="3401" width="475" height="740" frameX="-70" frameY="-7" frameWidth="545" frameHeight="747"/>
+	<SubTexture name="Lico-IdleHR0005" x="516" y="3401" width="475" height="740" frameX="-70" frameY="-7" frameWidth="545" frameHeight="747"/>
+	<SubTexture name="Lico-IdleHR0006" x="1006" y="3401" width="545" height="742" frameX="0" frameY="-5" frameWidth="545" frameHeight="747"/>
+	<SubTexture name="Lico-IdleHR0007" x="1006" y="3401" width="545" height="742" frameX="0" frameY="-5" frameWidth="545" frameHeight="747"/>
+	<SubTexture name="Lico-IdleHR0008" x="1566" y="3401" width="540" height="747" frameX="-5" frameY="0" frameWidth="545" frameHeight="747"/>
+	<SubTexture name="Lico-IdleHR0009" x="1566" y="3401" width="540" height="747" frameX="-5" frameY="0" frameWidth="545" frameHeight="747"/>
+	<SubTexture name="Lico-IdleHR0010" x="2121" y="3401" width="496" height="747" frameX="-49" frameY="0" frameWidth="545" frameHeight="747"/>
+	<SubTexture name="Lico-IdleHR0011" x="2121" y="3401" width="496" height="747" frameX="-49" frameY="0" frameWidth="545" frameHeight="747"/>
+	<SubTexture name="Lico-IdleHR0012" x="2632" y="3401" width="496" height="747" frameX="-49" frameY="0" frameWidth="545" frameHeight="747"/>
+	<SubTexture name="Lico-IdleHR0013" x="2632" y="3401" width="496" height="747" frameX="-49" frameY="0" frameWidth="545" frameHeight="747"/>
+	<SubTexture name="Lico-IdleHR0014" x="3143" y="3401" width="496" height="747" frameX="-49" frameY="0" frameWidth="545" frameHeight="747"/>
+	<SubTexture name="Lico-IdleHR0015" x="3143" y="3401" width="496" height="747" frameX="-49" frameY="0" frameWidth="545" frameHeight="747"/>
+	<SubTexture name="Lico-LeftHR0000" x="3654" y="3401" width="591" height="703"/>
+	<SubTexture name="Lico-LeftHR0001" x="3654" y="3401" width="591" height="703"/>
+	<SubTexture name="Lico-LeftHR0002" x="4260" y="3401" width="583" height="703" frameX="-4" frameY="0" frameWidth="591" frameHeight="703"/>
+	<SubTexture name="Lico-LeftHR0003" x="4260" y="3401" width="583" height="703" frameX="-4" frameY="0" frameWidth="591" frameHeight="703"/>
+	<SubTexture name="Lico-LeftHR0004" x="4260" y="3401" width="583" height="703" frameX="-4" frameY="0" frameWidth="591" frameHeight="703"/>
+	<SubTexture name="Lico-LeftHR0005" x="4260" y="3401" width="583" height="703" frameX="-4" frameY="0" frameWidth="591" frameHeight="703"/>
+	<SubTexture name="Lico-LeftHR0006" x="4260" y="3401" width="583" height="703" frameX="-4" frameY="0" frameWidth="591" frameHeight="703"/>
+	<SubTexture name="Lico-LeftHR0007" x="4260" y="3401" width="583" height="703" frameX="-4" frameY="0" frameWidth="591" frameHeight="703"/>
+	<SubTexture name="Lico-LeftHR0008" x="4260" y="3401" width="583" height="703" frameX="-4" frameY="0" frameWidth="591" frameHeight="703"/>
+	<SubTexture name="Lico-LeftHR0009" x="4260" y="3401" width="583" height="703" frameX="-4" frameY="0" frameWidth="591" frameHeight="703"/>
+	<SubTexture name="Lico-LeftHR0010" x="4260" y="3401" width="583" height="703" frameX="-4" frameY="0" frameWidth="591" frameHeight="703"/>
+	<SubTexture name="Lico-LeftHR0011" x="4260" y="3401" width="583" height="703" frameX="-4" frameY="0" frameWidth="591" frameHeight="703"/>
+	<SubTexture name="Lico-LeftHR0012" x="4260" y="3401" width="583" height="703" frameX="-4" frameY="0" frameWidth="591" frameHeight="703"/>
+	<SubTexture name="Lico-LeftHR0013" x="4260" y="3401" width="583" height="703" frameX="-4" frameY="0" frameWidth="591" frameHeight="703"/>
+	<SubTexture name="Lico-LeftHR0014" x="4260" y="3401" width="583" height="703" frameX="-4" frameY="0" frameWidth="591" frameHeight="703"/>
+	<SubTexture name="Lico-LeftHR0015" x="4260" y="3401" width="583" height="703" frameX="-4" frameY="0" frameWidth="591" frameHeight="703"/>
+	<SubTexture name="Lico-LeftHR0016" x="4260" y="3401" width="583" height="703" frameX="-4" frameY="0" frameWidth="591" frameHeight="703"/>
+	<SubTexture name="Lico-LeftMissHR0000" x="4858" y="3401" width="579" height="740"/>
+	<SubTexture name="Lico-LeftMissHR0001" x="5452" y="3401" width="579" height="738" frameX="0" frameY="-2" frameWidth="579" frameHeight="740"/>
+	<SubTexture name="Lico-LeftMissHR0002" x="6046" y="3401" width="571" height="740" frameX="-4" frameY="0" frameWidth="579" frameHeight="740"/>
+	<SubTexture name="Lico-LeftMissHR0003" x="6632" y="3401" width="571" height="738" frameX="-4" frameY="-2" frameWidth="579" frameHeight="740"/>
+	<SubTexture name="Lico-LeftMissHR0004" x="6046" y="3401" width="571" height="740" frameX="-4" frameY="0" frameWidth="579" frameHeight="740"/>
+	<SubTexture name="Lico-LeftMissHR0005" x="6632" y="3401" width="571" height="738" frameX="-4" frameY="-2" frameWidth="579" frameHeight="740"/>
+	<SubTexture name="Lico-LeftMissHR0006" x="6046" y="3401" width="571" height="740" frameX="-4" frameY="0" frameWidth="579" frameHeight="740"/>
+	<SubTexture name="Lico-LeftMissHR0007" x="6632" y="3401" width="571" height="738" frameX="-4" frameY="-2" frameWidth="579" frameHeight="740"/>
+	<SubTexture name="Lico-LeftMissHR0008" x="6046" y="3401" width="571" height="740" frameX="-4" frameY="0" frameWidth="579" frameHeight="740"/>
+	<SubTexture name="Lico-LeftMissHR0009" x="6632" y="3401" width="571" height="738" frameX="-4" frameY="-2" frameWidth="579" frameHeight="740"/>
+	<SubTexture name="Lico-LeftMissHR0010" x="6046" y="3401" width="571" height="740" frameX="-4" frameY="0" frameWidth="579" frameHeight="740"/>
+	<SubTexture name="Lico-LeftMissHR0011" x="6632" y="3401" width="571" height="738" frameX="-4" frameY="-2" frameWidth="579" frameHeight="740"/>
+	<SubTexture name="Lico-LeftMissHR0012" x="6046" y="3401" width="571" height="740" frameX="-4" frameY="0" frameWidth="579" frameHeight="740"/>
+	<SubTexture name="Lico-LeftMissHR0013" x="6632" y="3401" width="571" height="738" frameX="-4" frameY="-2" frameWidth="579" frameHeight="740"/>
+	<SubTexture name="Lico-LeftMissHR0014" x="6046" y="3401" width="571" height="740" frameX="-4" frameY="0" frameWidth="579" frameHeight="740"/>
+	<SubTexture name="Lico-LeftMissHR0015" x="6632" y="3401" width="571" height="738" frameX="-4" frameY="-2" frameWidth="579" frameHeight="740"/>
+	<SubTexture name="Lico-LeftMissHR0016" x="6046" y="3401" width="571" height="740" frameX="-4" frameY="0" frameWidth="579" frameHeight="740"/>
+	<SubTexture name="Lico-RightHR0000" x="7218" y="3401" width="406" height="679" frameX="-2" frameY="-1" frameWidth="408" frameHeight="680"/>
+	<SubTexture name="Lico-RightHR0001" x="7218" y="3401" width="406" height="679" frameX="-2" frameY="-1" frameWidth="408" frameHeight="680"/>
+	<SubTexture name="Lico-RightHR0002" x="7639" y="3401" width="404" height="680" frameX="0" frameY="0" frameWidth="408" frameHeight="680"/>
+	<SubTexture name="Lico-RightHR0003" x="7639" y="3401" width="404" height="680" frameX="0" frameY="0" frameWidth="408" frameHeight="680"/>
+	<SubTexture name="Lico-RightHR0004" x="7639" y="3401" width="404" height="680" frameX="0" frameY="0" frameWidth="408" frameHeight="680"/>
+	<SubTexture name="Lico-RightHR0005" x="7639" y="3401" width="404" height="680" frameX="0" frameY="0" frameWidth="408" frameHeight="680"/>
+	<SubTexture name="Lico-RightHR0006" x="7639" y="3401" width="404" height="680" frameX="0" frameY="0" frameWidth="408" frameHeight="680"/>
+	<SubTexture name="Lico-RightHR0007" x="7639" y="3401" width="404" height="680" frameX="0" frameY="0" frameWidth="408" frameHeight="680"/>
+	<SubTexture name="Lico-RightHR0008" x="7639" y="3401" width="404" height="680" frameX="0" frameY="0" frameWidth="408" frameHeight="680"/>
+	<SubTexture name="Lico-RightHR0009" x="7639" y="3401" width="404" height="680" frameX="0" frameY="0" frameWidth="408" frameHeight="680"/>
+	<SubTexture name="Lico-RightHR0010" x="7639" y="3401" width="404" height="680" frameX="0" frameY="0" frameWidth="408" frameHeight="680"/>
+	<SubTexture name="Lico-RightHR0011" x="7639" y="3401" width="404" height="680" frameX="0" frameY="0" frameWidth="408" frameHeight="680"/>
+	<SubTexture name="Lico-RightHR0012" x="7639" y="3401" width="404" height="680" frameX="0" frameY="0" frameWidth="408" frameHeight="680"/>
+	<SubTexture name="Lico-RightHR0013" x="7639" y="3401" width="404" height="680" frameX="0" frameY="0" frameWidth="408" frameHeight="680"/>
+	<SubTexture name="Lico-RightHR0014" x="7639" y="3401" width="404" height="680" frameX="0" frameY="0" frameWidth="408" frameHeight="680"/>
+	<SubTexture name="Lico-RightHR0015" x="7639" y="3401" width="404" height="680" frameX="0" frameY="0" frameWidth="408" frameHeight="680"/>
+	<SubTexture name="Lico-RightMissHR0000" x="5" y="4163" width="428" height="688" frameX="-1" frameY="0" frameWidth="429" frameHeight="688"/>
+	<SubTexture name="Lico-RightMissHR0001" x="448" y="4163" width="428" height="687" frameX="-1" frameY="-1" frameWidth="429" frameHeight="688"/>
+	<SubTexture name="Lico-RightMissHR0002" x="891" y="4163" width="424" height="688" frameX="0" frameY="0" frameWidth="429" frameHeight="688"/>
+	<SubTexture name="Lico-RightMissHR0003" x="1330" y="4163" width="425" height="687" frameX="0" frameY="-1" frameWidth="429" frameHeight="688"/>
+	<SubTexture name="Lico-RightMissHR0004" x="891" y="4163" width="424" height="688" frameX="0" frameY="0" frameWidth="429" frameHeight="688"/>
+	<SubTexture name="Lico-RightMissHR0005" x="1330" y="4163" width="425" height="687" frameX="0" frameY="-1" frameWidth="429" frameHeight="688"/>
+	<SubTexture name="Lico-RightMissHR0006" x="891" y="4163" width="424" height="688" frameX="0" frameY="0" frameWidth="429" frameHeight="688"/>
+	<SubTexture name="Lico-RightMissHR0007" x="1330" y="4163" width="425" height="687" frameX="0" frameY="-1" frameWidth="429" frameHeight="688"/>
+	<SubTexture name="Lico-RightMissHR0008" x="891" y="4163" width="424" height="688" frameX="0" frameY="0" frameWidth="429" frameHeight="688"/>
+	<SubTexture name="Lico-RightMissHR0009" x="1330" y="4163" width="425" height="687" frameX="0" frameY="-1" frameWidth="429" frameHeight="688"/>
+	<SubTexture name="Lico-RightMissHR0010" x="891" y="4163" width="424" height="688" frameX="0" frameY="0" frameWidth="429" frameHeight="688"/>
+	<SubTexture name="Lico-RightMissHR0011" x="1330" y="4163" width="425" height="687" frameX="0" frameY="-1" frameWidth="429" frameHeight="688"/>
+	<SubTexture name="Lico-RightMissHR0012" x="891" y="4163" width="424" height="688" frameX="0" frameY="0" frameWidth="429" frameHeight="688"/>
+	<SubTexture name="Lico-RightMissHR0013" x="1330" y="4163" width="425" height="687" frameX="0" frameY="-1" frameWidth="429" frameHeight="688"/>
+	<SubTexture name="Lico-RightMissHR0014" x="891" y="4163" width="424" height="688" frameX="0" frameY="0" frameWidth="429" frameHeight="688"/>
+	<SubTexture name="Lico-RightMissHR0015" x="1330" y="4163" width="425" height="687" frameX="0" frameY="-1" frameWidth="429" frameHeight="688"/>
+	<SubTexture name="Lico-UpHR0000" x="1770" y="4163" width="493" height="853" frameX="-8" frameY="0" frameWidth="501" frameHeight="853"/>
+	<SubTexture name="Lico-UpHR0001" x="1770" y="4163" width="493" height="853" frameX="-8" frameY="0" frameWidth="501" frameHeight="853"/>
+	<SubTexture name="Lico-UpHR0002" x="2278" y="4163" width="501" height="851" frameX="0" frameY="-2" frameWidth="501" frameHeight="853"/>
+	<SubTexture name="Lico-UpHR0003" x="2278" y="4163" width="501" height="851" frameX="0" frameY="-2" frameWidth="501" frameHeight="853"/>
+	<SubTexture name="Lico-UpHR0004" x="2278" y="4163" width="501" height="851" frameX="0" frameY="-2" frameWidth="501" frameHeight="853"/>
+	<SubTexture name="Lico-UpHR0005" x="2278" y="4163" width="501" height="851" frameX="0" frameY="-2" frameWidth="501" frameHeight="853"/>
+	<SubTexture name="Lico-UpHR0006" x="2278" y="4163" width="501" height="851" frameX="0" frameY="-2" frameWidth="501" frameHeight="853"/>
+	<SubTexture name="Lico-UpHR0007" x="2278" y="4163" width="501" height="851" frameX="0" frameY="-2" frameWidth="501" frameHeight="853"/>
+	<SubTexture name="Lico-UpHR0008" x="2278" y="4163" width="501" height="851" frameX="0" frameY="-2" frameWidth="501" frameHeight="853"/>
+	<SubTexture name="Lico-UpHR0009" x="2278" y="4163" width="501" height="851" frameX="0" frameY="-2" frameWidth="501" frameHeight="853"/>
+	<SubTexture name="Lico-UpHR0010" x="2278" y="4163" width="501" height="851" frameX="0" frameY="-2" frameWidth="501" frameHeight="853"/>
+	<SubTexture name="Lico-UpHR0011" x="2278" y="4163" width="501" height="851" frameX="0" frameY="-2" frameWidth="501" frameHeight="853"/>
+	<SubTexture name="Lico-UpHR0012" x="2278" y="4163" width="501" height="851" frameX="0" frameY="-2" frameWidth="501" frameHeight="853"/>
+	<SubTexture name="Lico-UpHR0013" x="2278" y="4163" width="501" height="851" frameX="0" frameY="-2" frameWidth="501" frameHeight="853"/>
+	<SubTexture name="Lico-UpHR0014" x="2278" y="4163" width="501" height="851" frameX="0" frameY="-2" frameWidth="501" frameHeight="853"/>
+	<SubTexture name="Lico-UpHR0015" x="2278" y="4163" width="501" height="851" frameX="0" frameY="-2" frameWidth="501" frameHeight="853"/>
+	<SubTexture name="Lico-UpMissHR0000" x="2794" y="4163" width="486" height="855" frameX="-9" frameY="0" frameWidth="495" frameHeight="855"/>
+	<SubTexture name="Lico-UpMissHR0001" x="3295" y="4163" width="486" height="855" frameX="-9" frameY="0" frameWidth="495" frameHeight="855"/>
+	<SubTexture name="Lico-UpMissHR0002" x="3796" y="4163" width="495" height="853" frameX="0" frameY="-2" frameWidth="495" frameHeight="855"/>
+	<SubTexture name="Lico-UpMissHR0003" x="4306" y="4163" width="495" height="853" frameX="0" frameY="-2" frameWidth="495" frameHeight="855"/>
+	<SubTexture name="Lico-UpMissHR0004" x="3796" y="4163" width="495" height="853" frameX="0" frameY="-2" frameWidth="495" frameHeight="855"/>
+	<SubTexture name="Lico-UpMissHR0005" x="4306" y="4163" width="495" height="853" frameX="0" frameY="-2" frameWidth="495" frameHeight="855"/>
+	<SubTexture name="Lico-UpMissHR0006" x="3796" y="4163" width="495" height="853" frameX="0" frameY="-2" frameWidth="495" frameHeight="855"/>
+	<SubTexture name="Lico-UpMissHR0007" x="4306" y="4163" width="495" height="853" frameX="0" frameY="-2" frameWidth="495" frameHeight="855"/>
+	<SubTexture name="Lico-UpMissHR0008" x="3796" y="4163" width="495" height="853" frameX="0" frameY="-2" frameWidth="495" frameHeight="855"/>
+	<SubTexture name="Lico-UpMissHR0009" x="4306" y="4163" width="495" height="853" frameX="0" frameY="-2" frameWidth="495" frameHeight="855"/>
+	<SubTexture name="Lico-UpMissHR0010" x="3796" y="4163" width="495" height="853" frameX="0" frameY="-2" frameWidth="495" frameHeight="855"/>
+	<SubTexture name="Lico-UpMissHR0011" x="4306" y="4163" width="495" height="853" frameX="0" frameY="-2" frameWidth="495" frameHeight="855"/>
+	<SubTexture name="Lico-UpMissHR0012" x="3796" y="4163" width="495" height="853" frameX="0" frameY="-2" frameWidth="495" frameHeight="855"/>
+	<SubTexture name="Lico-UpMissHR0013" x="4306" y="4163" width="495" height="853" frameX="0" frameY="-2" frameWidth="495" frameHeight="855"/>
+	<SubTexture name="Lico-UpMissHR0014" x="3796" y="4163" width="495" height="853" frameX="0" frameY="-2" frameWidth="495" frameHeight="855"/>
+	<SubTexture name="Lico-UpMissHR0015" x="4306" y="4163" width="495" height="853" frameX="0" frameY="-2" frameWidth="495" frameHeight="855"/>
+</TextureAtlas>

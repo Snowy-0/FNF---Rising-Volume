@@ -1,63 +1,63 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				180,
 				20
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Lico-IdleHR"
+			"fps": 24,
+			"name": "Lico-Idle",
+			"indices": []
 		},
 		{
 			"offsets": [
 				142,
 				-24
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Lico-LeftHR"
+			"loop": false,
+			"name": "Lico-Left0"
 		},
 		{
 			"offsets": [
 				-111,
 				-57
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Lico-RightHR"
+			"loop": false,
+			"name": "Lico-Right0"
 		},
 		{
 			"offsets": [
 				2,
 				-74
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Lico-DownHR"
+			"loop": false,
+			"name": "Lico-Down0"
 		},
 		{
 			"offsets": [
 				153,
 				126
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Lico-UpHR"
+			"loop": false,
+			"name": "Lico-Up0"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Lico-Assets-HR",
+	"image": "characters/Update-LicoHR",
 	"position": [
 		80,
 		27

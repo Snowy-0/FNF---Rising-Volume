@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cassette-girl.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cassette-girl0000" x="5" y="5" width="453" height="1004" frameX="0" frameY="-21" frameWidth="453" frameHeight="1026"/>
+	<SubTexture name="cassette-girl0001" x="5" y="5" width="453" height="1004" frameX="0" frameY="-21" frameWidth="453" frameHeight="1026"/>
+	<SubTexture name="cassette-girl0002" x="463" y="5" width="447" height="1005" frameX="-3" frameY="-20" frameWidth="453" frameHeight="1026"/>
+	<SubTexture name="cassette-girl0003" x="463" y="5" width="447" height="1005" frameX="-3" frameY="-20" frameWidth="453" frameHeight="1026"/>
+	<SubTexture name="cassette-girl0004" x="915" y="5" width="443" height="1015" frameX="-5" frameY="-10" frameWidth="453" frameHeight="1026"/>
+	<SubTexture name="cassette-girl0005" x="915" y="5" width="443" height="1015" frameX="-5" frameY="-10" frameWidth="453" frameHeight="1026"/>
+	<SubTexture name="cassette-girl0006" x="1363" y="5" width="439" height="1022" frameX="-7" frameY="-3" frameWidth="453" frameHeight="1026"/>
+	<SubTexture name="cassette-girl0007" x="1363" y="5" width="439" height="1022" frameX="-7" frameY="-3" frameWidth="453" frameHeight="1026"/>
+	<SubTexture name="cassette-girl0008" x="1807" y="5" width="433" height="1026" frameX="-10" frameY="0" frameWidth="453" frameHeight="1026"/>
+	<SubTexture name="cassette-girl0009" x="1807" y="5" width="433" height="1026" frameX="-10" frameY="0" frameWidth="453" frameHeight="1026"/>
+	<SubTexture name="cassette-girl0010" x="1807" y="5" width="433" height="1026" frameX="-10" frameY="0" frameWidth="453" frameHeight="1026"/>
+	<SubTexture name="cassette-girl0011" x="1807" y="5" width="433" height="1026" frameX="-10" frameY="0" frameWidth="453" frameHeight="1026"/>
+	<SubTexture name="cassette-girl0012" x="1807" y="5" width="433" height="1026" frameX="-10" frameY="0" frameWidth="453" frameHeight="1026"/>
+	<SubTexture name="cassette-girl0013" x="1807" y="5" width="433" height="1026" frameX="-10" frameY="0" frameWidth="453" frameHeight="1026"/>
+</TextureAtlas>

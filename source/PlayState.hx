@@ -596,10 +596,6 @@ class PlayState extends MusicBeatState
 				var benches:BGSprite = new BGSprite('benches', -800, -405, 0.95, 0.98);
 				benches.setGraphicSize(Std.int(bg.width * 0.8));
 				add(benches);
-				
-				var trash:BGSprite = new BGSprite('trashbins', -800, -605, 0.95, 0.98);
-				trash.setGraphicSize(Std.int(bg.width * 0.25));
-				add(trash);
 
 				subwayTrain = new BGSprite('lico_train', 4000, 180);
 				subwayTrain.scale.set(1.4, 1.4);
@@ -619,10 +615,6 @@ class PlayState extends MusicBeatState
 				var adscreens:BGSprite = new BGSprite('adscreens', -750, -355, 0.95, 0.98);
 				adscreens.setGraphicSize(Std.int(bg.width * 0.8));
 				add(adscreens);
-
-				var pillars:BGSprite = new BGSprite('front_pillars', -800, -550, 0.95, 0.98);
-				pillars.setGraphicSize(Std.int(bg.width * 0.9));
-				add(pillars);
 
 				var ceiling:BGSprite = new BGSprite('ceiling', -800, -405, 0.95, 0.98);
 				ceiling.setGraphicSize(Std.int(bg.width * 0.8));
@@ -819,9 +811,17 @@ class PlayState extends MusicBeatState
 		add(boyfriendGroup);
 
 		if(curStage == 'subway') {
-			var spotlight:BGSprite = new BGSprite('spotlight', -800, -405, 0.95, 0.98);
-			spotlight.setGraphicSize(Std.int(spotlight.width * 0.8));
-			add(spotlight);
+				var trash:BGSprite = new BGSprite('trashbins', -775, -330, 0.95, 0.98);
+				trash.setGraphicSize(Std.int(trash.width * 0.9));
+				add(trash);
+				
+				var pillars:BGSprite = new BGSprite('front_pillars', -800, -550, 0.95, 0.98);
+				pillars.setGraphicSize(Std.int(pillars.width * 0.9));
+				add(pillars);
+
+				var spotlight:BGSprite = new BGSprite('spotlight', -800, -405, 0.95, 0.98);
+				spotlight.setGraphicSize(Std.int(spotlight.width * 0.8));
+				add(spotlight);
 		}
 
 		if(curStage == 'stadium') {

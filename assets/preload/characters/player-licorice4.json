@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Lico-Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				339,
+				-57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Lico-Right0"
+		},
+		{
+			"offsets": [
+				163,
+				-74
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Lico-Down0"
+		},
+		{
+			"offsets": [
+				155,
+				126
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Lico-Up0"
+		},
+		{
+			"offsets": [
+				153,
+				127
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Lico-Up-Miss0"
+		},
+		{
+			"offsets": [
+				176,
+				-36
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Lico-Down-Miss0"
+		},
+		{
+			"offsets": [
+				366,
+				-54
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Lico-Right-Miss0"
+		},
+		{
+			"offsets": [
+				268,
+				11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Lico-Left-Miss0"
+		},
+		{
+			"offsets": [
+				311,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": false,
+			"name": "Lico-Death-Loop0"
+		},
+		{
+			"offsets": [
+				315,
+				95
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "Lico-Death0"
+		},
+		{
+			"offsets": [
+				272,
+				-24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Lico-Left0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Update-LicoHR",
+	"position": [
+		80,
+		27
+	],
+	"healthicon": "licorice",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

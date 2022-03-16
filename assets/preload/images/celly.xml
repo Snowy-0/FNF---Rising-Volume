@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="celly.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="celly0000" x="5" y="5" width="321" height="925" frameX="0" frameY="-14" frameWidth="321" frameHeight="939"/>
+	<SubTexture name="celly0001" x="5" y="5" width="321" height="925" frameX="0" frameY="-14" frameWidth="321" frameHeight="939"/>
+	<SubTexture name="celly0002" x="331" y="5" width="316" height="928" frameX="-3" frameY="-11" frameWidth="321" frameHeight="939"/>
+	<SubTexture name="celly0003" x="331" y="5" width="316" height="928" frameX="-3" frameY="-11" frameWidth="321" frameHeight="939"/>
+	<SubTexture name="celly0004" x="652" y="5" width="314" height="931" frameX="-5" frameY="-8" frameWidth="321" frameHeight="939"/>
+	<SubTexture name="celly0005" x="652" y="5" width="314" height="931" frameX="-5" frameY="-8" frameWidth="321" frameHeight="939"/>
+	<SubTexture name="celly0006" x="971" y="5" width="312" height="934" frameX="-7" frameY="-5" frameWidth="321" frameHeight="939"/>
+	<SubTexture name="celly0007" x="971" y="5" width="312" height="934" frameX="-7" frameY="-5" frameWidth="321" frameHeight="939"/>
+	<SubTexture name="celly0008" x="1288" y="5" width="310" height="939" frameX="-10" frameY="0" frameWidth="321" frameHeight="939"/>
+	<SubTexture name="celly0009" x="1288" y="5" width="310" height="939" frameX="-10" frameY="0" frameWidth="321" frameHeight="939"/>
+	<SubTexture name="celly0010" x="1288" y="5" width="310" height="939" frameX="-10" frameY="0" frameWidth="321" frameHeight="939"/>
+	<SubTexture name="celly0011" x="1288" y="5" width="310" height="939" frameX="-10" frameY="0" frameWidth="321" frameHeight="939"/>
+	<SubTexture name="celly0012" x="1288" y="5" width="310" height="939" frameX="-10" frameY="0" frameWidth="321" frameHeight="939"/>
+	<SubTexture name="celly0013" x="1288" y="5" width="310" height="939" frameX="-10" frameY="0" frameWidth="321" frameHeight="939"/>
+</TextureAtlas>

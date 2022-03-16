@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hero.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<!-- MODIFIED BY ONEILR ;0 -->
+	
+	<!-- IDLE -->
+	<SubTexture name="Hero Idle instance 10000" x="0" y="0" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Idle instance 10002" x="0" y="0" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Idle instance 10003" x="563" y="0" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Idle instance 10004" x="563" y="0" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Idle instance 10005" x="1126" y="0" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Idle instance 10006" x="1126" y="0" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Idle instance 10007" x="1689" y="0" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Idle instance 10008" x="1689" y="0" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Idle instance 10009" x="2252" y="0" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Idle instance 10010" x="2252" y="0" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Idle instance 10011" x="0" y="0" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Idle instance 10012" x="0" y="0" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	
+	<!-- UP -->
+	<SubTexture name="Hero Up instance 10000" x="0" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Up instance 10001" x="563" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Up instance 10002" x="1126" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Up instance 10003" x="1126" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Up instance 10004" x="1126" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Up instance 10005" x="1126" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Up instance 10006" x="1126" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Up instance 10007" x="1126" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Up instance 10008" x="1126" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Up instance 10009" x="1126" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Up instance 10010" x="1126" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Up instance 10011" x="1126" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Up instance 10012" x="1126" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Up instance 10013" x="1126" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Up instance 10014" x="1126" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Up instance 10015" x="1126" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Up instance 10016" x="1126" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>	
+	<SubTexture name="Hero Up instance 10017" x="1126" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>	
+	
+	<!-- DOWN -->
+	<SubTexture name="Hero Down instance 10000" x="0" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Down instance 10001" x="563" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Down instance 10002" x="1126" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Down instance 10003" x="1126" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Down instance 10004" x="1126" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Down instance 10005" x="1126" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Down instance 10006" x="1126" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Down instance 10007" x="1126" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Down instance 10008" x="1126" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Down instance 10009" x="1126" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Down instance 10010" x="1126" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Down instance 10011" x="1126" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>	
+	<SubTexture name="Hero Down instance 10012" x="1126" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>	
+	<SubTexture name="Hero Down instance 10013" x="1126" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>	
+	<SubTexture name="Hero Down instance 10014" x="1126" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Down instance 10015" x="1126" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Down instance 10016" x="1126" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Down instance 10017" x="1126" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	
+	<!-- LEFT -->
+	<SubTexture name="Hero Left instance 10000" x="0" y="2214" width="563" height="738" frameX="10" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Left instance 10001" x="563" y="2214" width="563" height="738" frameX="10" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Left instance 10002" x="1126" y="2214" width="563" height="738" frameX="10" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Left instance 10003" x="1126" y="2214" width="563" height="738" frameX="10" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Left instance 10004" x="1126" y="2214" width="563" height="738" frameX="10" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Left instance 10005" x="1126" y="2214" width="563" height="738" frameX="10" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Left instance 10006" x="1126" y="2214" width="563" height="738" frameX="10" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Left instance 10007" x="1126" y="2214" width="563" height="738" frameX="10" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Left instance 10008" x="1126" y="2214" width="563" height="738" frameX="10" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Left instance 10009" x="1126" y="2214" width="563" height="738" frameX="10" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Left instance 10010" x="1126" y="2214" width="563" height="738" frameX="10" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Left instance 10011" x="1126" y="2214" width="563" height="738" frameX="10" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Left instance 10012" x="1126" y="2214" width="563" height="738" frameX="10" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Left instance 10013" x="1126" y="2214" width="563" height="738" frameX="10" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Left instance 10014" x="1126" y="2214" width="563" height="738" frameX="10" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Left instance 10015" x="1126" y="2214" width="563" height="738" frameX="10" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Left instance 10016" x="1126" y="2214" width="563" height="738" frameX="10" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Left instance 10017" x="1126" y="2214" width="563" height="738" frameX="10" frameY="-40" frameWidth="563" frameHeight="738"/>	
+	
+	
+	<!-- RIGHT -->
+	<SubTexture name="Hero Right instance 10000" x="0" y="2952" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Right instance 10001" x="563" y="2952" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Right instance 10002" x="1126" y="2952" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Right instance 10003" x="1126" y="2952" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Right instance 10004" x="1126" y="2952" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Right instance 10005" x="1126" y="2952" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Right instance 10006" x="1126" y="2952" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Right instance 10007" x="1126" y="2952" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Right instance 10008" x="1126" y="2952" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Right instance 10009" x="1126" y="2952" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Right instance 10010" x="1126" y="2952" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Right instance 10011" x="1126" y="2952" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>	
+	<SubTexture name="Hero Right instance 10012" x="1126" y="2952" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>	
+	<SubTexture name="Hero Right instance 10013" x="1126" y="2952" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>	
+	<SubTexture name="Hero Right instance 10014" x="1126" y="2952" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>	
+	<SubTexture name="Hero Right instance 10015" x="1126" y="2952" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>	
+	<SubTexture name="Hero Right instance 10016" x="1126" y="2952" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>	
+	<SubTexture name="Hero Right instance 10017" x="1126" y="2952" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>	
+	
+	
+	<!--oni gay for hero confirmed ^^^-->
+	<SubTexture name="Hero Lets instance 10000" x="2815" y="0" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Lets instance 10001" x="2815" y="0" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Lets instance 10002" x="2815" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Lets instance 10003" x="2815" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Lets instance 10004" x="2815" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Lets instance 10005" x="2815" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Lets instance 10006" x="2815" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Lets instance 10007" x="2815" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Lets instance 10008" x="2815" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Lets instance 10009" x="2815" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Lets instance 10010" x="2815" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>	
+	<!--no im not >:C-->
+	<SubTexture name="Hero Go instance 10000" x="3378" y="0" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Go instance 10002" x="3378" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Go instance 10003" x="3378" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Go instance 10004" x="3378" y="0" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Go instance 10005" x="3378" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Go instance 10006" x="3378" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>	
+	<SubTexture name="Hero Go instance 10007" x="3378" y="0" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Go instance 10008" x="3378" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Go instance 10009" x="3378" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>	
+	<SubTexture name="Hero Go instance 10010" x="3378" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Go instance 10011" x="3378" y="1476" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Go instance 10012" x="3378" y="2214" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Go instance 10013" x="3378" y="2214" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Go instance 10014" x="3941" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Go instance 10015" x="3941" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Go instance 10016" x="3941" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Go instance 10017" x="3941" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	<SubTexture name="Hero Go instance 10018" x="3941" y="738" width="563" height="738" frameX="0" frameY="-40" frameWidth="563" frameHeight="738"/>
+	
+
+	
+</TextureAtlas>
