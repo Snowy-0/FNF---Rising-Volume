@@ -91,14 +91,14 @@ class FreeplayState extends MusicBeatState
 		// LOAD MUSIC
 		addSong('Paraskunk', 1, 'agoti');
 		addSong('Skunk-Showdown', 1, 'hero');
-		addSong('Badass', 1, 'licorice');
-		addSong('Dancing-Days', 1, 'licorice');
 		addSong('Cold', 1, 'licorice');
 		addSong('Shudder', 1, 'licorice');
-		addSong('Clear-Skies', 1, 'licorice');
+		addSong('Dancing-Days', 1, 'licorice');
+		addSong('Badass', 1, 'licorice');
 		addSong('Edge', 1, 'licorice');
 		addSong('Drowzy', 1, 'licorice');
 		addSong('New-2Me', 1, 'licorice');
+		addSong('Clear-Skies', 1, 'licorice');
 		// LOAD CHARACTERS
 
 		bg = new FlxSprite().loadGraphic(Paths.image('menuDesat'));

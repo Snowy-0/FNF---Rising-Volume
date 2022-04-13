@@ -545,6 +545,7 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_breezy_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_celly_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_discord_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_dj_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_evilsk8r_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_hexer_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_ito_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
@@ -562,6 +563,7 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_speezy_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_sugar_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_credits_teeth_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_endcreds_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_final_bgboppers_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_final_bgboppers_xml extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_front_pillars_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }

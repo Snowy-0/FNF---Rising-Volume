@@ -2897,6 +2897,11 @@ class PlayState extends MusicBeatState
 				transOut = FlxTransitionableState.defaultTransOut;
 
 				MusicBeatState.switchState(new StoryMenuState());
+				
+				if(curSong == 'livin-it')
+				{
+					MusicBeatState.switchState(new EndingState());
+				}
 
 				// if ()
 				StoryMenuState.weekUnlocked[Std.int(Math.min(storyWeek + 1, StoryMenuState.weekUnlocked.length - 1))] = true;
