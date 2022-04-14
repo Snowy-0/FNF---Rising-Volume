@@ -464,7 +464,7 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_livin_it_livin_itdialogue_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_livin_it_livin_itdialogue_txt_bak extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_livin_it_meta_txt extends null { }
-@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_livin_it_postdialogue_txt extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_livin_it_postlivin_it_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_livin_it_script_lua extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_main_view_xml extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_new_2me_meta_txt extends null { }

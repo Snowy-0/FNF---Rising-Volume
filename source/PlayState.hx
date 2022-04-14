@@ -809,7 +809,7 @@ class PlayState extends MusicBeatState
 
 		add(dadGroup);
 		add(boyfriendGroup);
-
+		
 		if(curStage == 'subway') {
 				var trash:BGSprite = new BGSprite('trashbins', -775, -330, 0.95, 0.98);
 				trash.setGraphicSize(Std.int(trash.width * 0.9));
@@ -863,6 +863,16 @@ class PlayState extends MusicBeatState
 		doof.nextDialogueThing = startNextDialogue;
 
 		Conductor.songPosition = -5000;
+
+		var hasDialog = false;
+		if(sys.FileSystem.exists("assets/data/" + SONG.song.toLowerCase() + "/post" + SONG.song.toLowerCase() + ".txt")){
+			try{//checks for end dialogue
+				hasDialog = true;
+				dialogue = CoolUtil.coolTextFile("assets/data/" + SONG.song.toLowerCase() + "/post" + SONG.song.toLowerCase() + ".txt");
+				trace(dialogue);
+			}
+			catch(e){}
+		}
 
 		strumLine = new FlxSprite(ClientPrefs.middleScroll ? STRUM_X_MIDDLESCROLL : STRUM_X, 50).makeGraphic(FlxG.width, 10);
 		if(ClientPrefs.downScroll) strumLine.y = FlxG.height - 150;
