@@ -2900,6 +2900,7 @@ class PlayState extends MusicBeatState
 				
 				if(curSong == 'livin-it')
 				{
+					dialogueIntro(dialogue, 'skunk-dialogue');
 					MusicBeatState.switchState(new EndingState());
 				}
 
