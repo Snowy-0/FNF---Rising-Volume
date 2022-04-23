@@ -1,5 +1,7 @@
 package;
 
+import sys.FileSystem;
+import sys.io.File;
 #if desktop
 import Discord.DiscordClient;
 #end
@@ -148,6 +150,8 @@ class PlayState extends MusicBeatState
 	public var iconP1:HealthIcon;
 	public var iconP2:HealthIcon;
 	public var camHUD:FlxCamera;
+	public static var instancy:PlayState;
+
 	public var camGame:FlxCamera;
 	public var camOther:FlxCamera;
 
@@ -266,6 +270,7 @@ class PlayState extends MusicBeatState
 		camOther = new FlxCamera();
 		camHUD.bgColor.alpha = 0;
 		camOther.bgColor.alpha = 0;
+		instancy = this;
 
 		FlxG.cameras.reset(camGame);
 		FlxG.cameras.add(camHUD);
@@ -1176,20 +1181,31 @@ class PlayState extends MusicBeatState
 	var dialogueCount:Int = 0;
 
 	//You don't have to add a song, just saying. You can just do "dialogueIntro(dialogue);" and it should work
-	public function dialogueIntro(dialogue:Array<String>, ?song:String = null):Void
+	public function dialogueIntro(dialogue:Array<String>, ?song:String = null, ?isPost:Bool = false):Void
 	{
 		// TO DO: Make this more flexible, maybe?
 		inCutscene = true;
+		isPosting = isPost;
 		CoolUtil.precacheSound('dialogue');
 		CoolUtil.precacheSound('dialogueClose');
 		var doof:DialogueBoxPsych = new DialogueBoxPsych(dialogue, song);
 		doof.scrollFactor.set();
 		doof.finishThing = startCountdown;
 		doof.nextDialogueThing = startNextDialogue;
-		doof.cameras = [camHUD];
+		doof.cameras = [camOther];
+		if (isPost) {
+			camHUD.visible = false;
+			doof.finishThing = googoogaagaa;
+			canPause = false;
+			boyfriend.stunned = true;
+		}
+		
 		add(doof);
 	}
 
+	public function googoogaagaa():Void {
+		MusicBeatState.switchState(new EndingState());
+	} 
 	function schoolIntro(?dialogueBox:DialogueBox):Void
 	{
 		inCutscene = true;
@@ -1457,7 +1473,8 @@ class PlayState extends MusicBeatState
 
 		FlxG.sound.playMusic(Paths.inst(PlayState.SONG.song), 1, false);
 		FlxG.sound.music.onComplete = finishSong;
-		vocals.play();
+		if (!isPosting)
+			vocals.play();
 
 		if(paused) {
 			//trace('Oopsie doopsie! Paused sound');
@@ -1876,7 +1893,8 @@ class PlayState extends MusicBeatState
 		FlxG.sound.music.play();
 		Conductor.songPosition = FlxG.sound.music.time;
 		vocals.time = Conductor.songPosition;
-		vocals.play();
+		if (!isPosting)
+			vocals.play();
 	}
 
 	private var paused:Bool = false;
@@ -2341,12 +2359,13 @@ class PlayState extends MusicBeatState
 							case 3:
 								animToPlay = 'singRIGHT';
 						}
-						dad.playAnim(animToPlay + altAnim, true);
+						if (!isPosting)
+							dad.playAnim(animToPlay + altAnim, true);
 					}
 
 					dad.holdTimer = 0;
 
-					if (SONG.needsVoices)
+					if (SONG.needsVoices && !isPosting)
 						vocals.volume = 1;
 
 					var time:Float = 0.15;
@@ -2406,7 +2425,7 @@ class PlayState extends MusicBeatState
 										vocals.volume = 0;
 										RecalculateRating();
 
-										if(ClientPrefs.ghostTapping) {
+										if(ClientPrefs.ghostTapping && !isPosting) {
 											switch (daNote.noteData % 4)
 											{
 												case 0:
@@ -2502,7 +2521,8 @@ class PlayState extends MusicBeatState
 				FlxG.sound.music.play();
 
 				vocals.time = Conductor.songPosition;
-				vocals.play();
+				if (!isPosting)
+					vocals.play();
 			}
 		}
 
@@ -2801,7 +2821,7 @@ class PlayState extends MusicBeatState
 			camFollow.x += dad.cameraPosition[0];
 			camFollow.y += dad.cameraPosition[1];
 			
-			if (dad.curCharacter.startsWith('mom'))
+			if (dad.curCharacter.startsWith('mom') && !isPosting)
 				vocals.volume = 1;
 
 			if (SONG.song.toLowerCase() == 'tutorial')
@@ -2835,10 +2855,20 @@ class PlayState extends MusicBeatState
 		camFollow.set(x, y);
 		camFollowPos.setPosition(x, y);
 	}
+	function startPost():Void {
+		var diloague:Array<String> = [];
+		diloague = dialogue;
+
+		dialogueIntro(diloague, 'skunk-dialogue', true);
+	}
+	public var isPosting:Bool = false;
 
 	function finishSong():Void
 	{
 		var finishCallback:Void->Void = endSong; //In case you want to change it in a specific song.
+
+		if (SONG.song.toLowerCase() == "livin-it")
+			finishCallback = startPost;
 
 		updateTime = false;
 		FlxG.sound.music.volume = 0;
@@ -2901,18 +2931,11 @@ class PlayState extends MusicBeatState
 
 			if (storyPlaylist.length <= 0)
 			{
-				FlxG.sound.playMusic(Paths.music('freakyMenu'));
 
 				transIn = FlxTransitionableState.defaultTransIn;
 				transOut = FlxTransitionableState.defaultTransOut;
-
 				MusicBeatState.switchState(new StoryMenuState());
-				
-				if(curSong == 'livin-it')
-				{
-					dialogueIntro(dialogue, 'skunk-dialogue');
-					MusicBeatState.switchState(new EndingState());
-				}
+				FlxG.sound.playMusic(Paths.music('freakyMenu'));
 
 				// if ()
 				StoryMenuState.weekUnlocked[Std.int(Math.min(storyWeek + 1, StoryMenuState.weekUnlocked.length - 1))] = true;
@@ -3012,6 +3035,7 @@ class PlayState extends MusicBeatState
 		var noteDiff:Float = Math.abs(note.strumTime - Conductor.songPosition + 8); 
 
 		// boyfriend.playAnim('hey');
+		if (!isPosting)
 		vocals.volume = 1;
 
 		var placement:String = Std.string(combo);
@@ -3342,16 +3366,18 @@ class PlayState extends MusicBeatState
 				boyfriend.stunned = false;
 			});*/
 
-			switch (direction)
-			{
-				case 0:
-					boyfriend.playAnim('singLEFTmiss', true);
-				case 1:
-					boyfriend.playAnim('singDOWNmiss', true);
-				case 2:
-					boyfriend.playAnim('singUPmiss', true);
-				case 3:
-					boyfriend.playAnim('singRIGHTmiss', true);
+			if (!isPosting) {
+				switch (direction)
+				{
+					case 0:
+						boyfriend.playAnim('singLEFTmiss', true);
+					case 1:
+						boyfriend.playAnim('singDOWNmiss', true);
+					case 2:
+						boyfriend.playAnim('singUPmiss', true);
+					case 3:
+						boyfriend.playAnim('singRIGHTmiss', true);
+				}
 			}
 			vocals.volume = 0;
 		}
@@ -3452,7 +3478,8 @@ class PlayState extends MusicBeatState
 			}
 
 			note.wasGoodHit = true;
-			vocals.volume = 1;
+			if (!isPosting)
+				vocals.volume = 1;
 
 			var isSus:Bool = note.isSustainNote; //GET OUT OF MY HEAD, GET OUT OF MY HEAD, GET OUT OF MY HEAD
 			var leData:Int = note.noteData;

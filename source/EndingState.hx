@@ -21,7 +21,8 @@ class EndingState extends MusicBeatState
 
               if (FlxG.keys.justPressed.ANY)
               {
-                    FlxG.switchState(new StoryMenuState());
+                    MusicBeatState.switchState(new StoryMenuState());
+                    FlxG.sound.playMusic(Paths.music('freakyMenu'), 0.7);
               }
        }
 }
