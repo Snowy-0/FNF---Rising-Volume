@@ -2869,6 +2869,9 @@ class PlayState extends MusicBeatState
 	{
 		var finishCallback:Void->Void = endSong; //In case you want to change it in a specific song.
 
+		if (SONG.song.toLowerCase() == "livin-it")
+			finishCallback = googoogaagaa;
+
 		updateTime = false;
 		FlxG.sound.music.volume = 0;
 		vocals.volume = 0;
