@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cameos.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bench0000" x="0" y="0" width="1349" height="948"/>
+	<SubTexture name="Bench0001" x="0" y="0" width="1349" height="948"/>
+	<SubTexture name="Bench0002" x="0" y="0" width="1349" height="948"/>
+	<SubTexture name="Bench0003" x="0" y="0" width="1349" height="948"/>
+	<SubTexture name="Bench0004" x="0" y="0" width="1349" height="948"/>
+	<SubTexture name="Bench0005" x="0" y="0" width="1349" height="948"/>
+	<SubTexture name="Bench0006" x="0" y="0" width="1349" height="948"/>
+	<SubTexture name="Bench0007" x="0" y="0" width="1349" height="948"/>
+	<SubTexture name="Bench0008" x="1449" y="0" width="1349" height="948"/>
+	<SubTexture name="Bench0009" x="1449" y="0" width="1349" height="948"/>
+	<SubTexture name="Bench0010" x="0" y="1048" width="1349" height="948"/>
+	<SubTexture name="Bench0011" x="0" y="1048" width="1349" height="948"/>
+	<SubTexture name="Bench0012" x="1449" y="1048" width="1349" height="948"/>
+	<SubTexture name="Bench0013" x="1449" y="1048" width="1349" height="948"/>
+</TextureAtlas>

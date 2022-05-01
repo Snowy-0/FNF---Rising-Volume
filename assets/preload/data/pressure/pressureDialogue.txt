@@ -8,7 +8,7 @@ licorice:left bf:right
 :1:talk:0.05:normal:Beepee biribop!
 :0:confused:0.05:confused:...A rap battle?
 :0:annoyed:0.05:annoyed:...Alright, answer me this.
-:0:annoyed:0.05:annoyed:Name one song of mines that has lyrics.
+:0:annoyed:0.05:annoyed:Name one song of mine that has lyrics.
 :1:talk:0.05:normal:...
 :0:behind:0.05:behind:None, right? Exactly. Glad you got\nthe memo. Now if you'll excuse me--
 :1:talk:0.05:normal:Bep?

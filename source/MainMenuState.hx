@@ -74,6 +74,16 @@ class MainMenuState extends MusicBeatState
 		buttons.x = 20;
 		buttons.antialiasing = ClientPrefs.globalAntialiasing;
 		add(buttons);
+		
+		var menudance:FlxSprite = new FlxSprite();
+		menudance.frames = Paths.getSparrowAtlas('Untitled-1');
+		menudance.animation.addByPrefix('idle', 'menu idle', 24, true);
+		menudance.animation.play('idle');
+		menudance.setGraphicSize(Std.int(menudance.width * 1));
+		menudance.updateHitbox();
+		menudance.screenCenter();
+		menudance.x += 310;
+		add(menudance);
 
 		var borders:FlxSprite = new FlxSprite(80).loadGraphic(Paths.image('bordersmain'));
 		borders.screenCenter();

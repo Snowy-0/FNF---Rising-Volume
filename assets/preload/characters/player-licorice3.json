@@ -1,63 +1,140 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "licor idle",
-			"indices": []
+			"indices": [],
+			"name": "licor idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				10
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "licor left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				150,
-				-10
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "licor right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-9,
+				-10,
 				-25
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "licor down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "licor down0"
+		},
+		{
+			"offsets": [
+				4,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "licor up 0"
+		},
+		{
+			"offsets": [
+				151,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "licorice left MISS0"
+		},
+		{
+			"offsets": [
+				0,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "licorice right MISS0"
+		},
+		{
+			"offsets": [
+				10,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "licorice up MISS0"
+		},
+		{
+			"offsets": [
+				-6,
+				-23
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "licorice down MISS0"
+		},
+		{
+			"offsets": [
+				-2,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "licor left0"
+		},
+		{
+			"offsets": [
+				150,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "licor right0"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				4,
-				24
+				2,
+				12
 			],
-			"anim": "singUP",
+			"anim": "firstDeath",
 			"fps": 24,
-			"name": "licor up",
+			"name": "lico dies0",
 			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": false,
+			"name": "deathloop"
+		},
+		{
+			"offsets": [
+				-1,
+				36
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "deathaccept"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Lico_assets2",
+	"image": "characters/lci_oric_e",
 	"position": [
 		50,
 		50

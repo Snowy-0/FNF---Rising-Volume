@@ -1,63 +1,63 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "licor idle"
+			"fps": 24,
+			"name": "licor idle",
+			"indices": []
 		},
 		{
 			"offsets": [
 				12,
 				10
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "licor left"
+			"loop": false,
+			"name": "licor left0"
 		},
 		{
 			"offsets": [
 				-30,
 				-11
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "licor right"
+			"loop": false,
+			"name": "licor right0"
 		},
 		{
 			"offsets": [
 				-34,
 				-25
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "licor down"
+			"loop": false,
+			"name": "licor down0"
 		},
 		{
 			"offsets": [
 				4,
 				24
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "licor up"
+			"loop": false,
+			"name": "licor up 0"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Lico_assets2",
+	"image": "characters/lci_oric_e",
 	"position": [
 		50,
 		50

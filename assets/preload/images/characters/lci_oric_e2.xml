@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lci_oric_e2.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="deathaccept0000" x="5" y="5" width="501" height="730" pivotX="5.5" pivotY="26.2" frameX="0" frameY="-26" frameWidth="501" frameHeight="756"/>
+	<SubTexture name="deathaccept0001" x="511" y="5" width="501" height="756"/>
+	<SubTexture name="deathaccept0002" x="511" y="5" width="501" height="756"/>
+	<SubTexture name="deathaccept0003" x="1017" y="5" width="501" height="756"/>
+	<SubTexture name="deathaccept0004" x="1523" y="5" width="501" height="756"/>
+	<SubTexture name="deathaccept0005" x="2029" y="5" width="501" height="756"/>
+	<SubTexture name="deathaccept0006" x="2535" y="5" width="501" height="756"/>
+	<SubTexture name="deathaccept0007" x="3041" y="5" width="501" height="756"/>
+	<SubTexture name="deathaccept0008" x="3547" y="5" width="501" height="756"/>
+	<SubTexture name="deathaccept0009" x="5" y="766" width="501" height="756"/>
+	<SubTexture name="deathaccept0010" x="511" y="766" width="501" height="756"/>
+	<SubTexture name="deathaccept0011" x="1017" y="766" width="501" height="756"/>
+	<SubTexture name="deathaccept0012" x="1523" y="766" width="501" height="756"/>
+	<SubTexture name="deathaccept0013" x="2029" y="766" width="501" height="756"/>
+	<SubTexture name="deathaccept0014" x="2535" y="766" width="501" height="756"/>
+	<SubTexture name="deathaccept0015" x="3041" y="766" width="501" height="756"/>
+	<SubTexture name="deathaccept0016" x="3547" y="766" width="501" height="756"/>
+	<SubTexture name="deathaccept0017" x="5" y="1527" width="501" height="756"/>
+	<SubTexture name="deathaccept0018" x="511" y="1527" width="501" height="756"/>
+	<SubTexture name="deathaccept0019" x="1017" y="1527" width="501" height="756"/>
+	<SubTexture name="deathaccept0020" x="1523" y="1527" width="501" height="756"/>
+	<SubTexture name="deathaccept0021" x="2029" y="1527" width="501" height="756"/>
+	<SubTexture name="deathaccept0022" x="2029" y="1527" width="501" height="756"/>
+	<SubTexture name="deathaccept0023" x="2535" y="1527" width="501" height="756"/>
+	<SubTexture name="deathaccept0024" x="2535" y="1527" width="501" height="756"/>
+	<SubTexture name="deathaccept0025" x="2535" y="1527" width="501" height="756"/>
+	<SubTexture name="deathaccept0026" x="2535" y="1527" width="501" height="756"/>
+	<SubTexture name="deathaccept0027" x="2535" y="1527" width="501" height="756"/>
+	<SubTexture name="deathaccept0028" x="2535" y="1527" width="501" height="756"/>
+	<SubTexture name="deathaccept0029" x="2535" y="1527" width="501" height="756"/>
+	<SubTexture name="deathaccept0030" x="2535" y="1527" width="501" height="756"/>
+	<SubTexture name="deathaccept0031" x="2535" y="1527" width="501" height="756"/>
+	<SubTexture name="deathaccept0032" x="2535" y="1527" width="501" height="756"/>
+	<SubTexture name="deathaccept0033" x="2535" y="1527" width="501" height="756"/>
+	<SubTexture name="deathaccept0034" x="5" y="5" width="501" height="730" frameX="0" frameY="-26" frameWidth="501" frameHeight="756"/>
+	<SubTexture name="deathloop0000" x="3041" y="1527" width="501" height="730" pivotX="5.5" pivotY="0"/>
+	<SubTexture name="deathloop0001" x="3547" y="1527" width="501" height="730"/>
+	<SubTexture name="deathloop0002" x="3547" y="1527" width="501" height="730"/>
+	<SubTexture name="deathloop0003" x="5" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0004" x="5" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0005" x="511" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0006" x="511" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0007" x="1017" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0008" x="1017" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0009" x="1017" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0010" x="1017" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0011" x="1017" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0012" x="1017" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0013" x="1017" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0014" x="1017" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0015" x="1017" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0016" x="1017" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0017" x="3041" y="1527" width="501" height="730"/>
+	<SubTexture name="deathloop0018" x="3547" y="1527" width="501" height="730"/>
+	<SubTexture name="deathloop0019" x="3547" y="1527" width="501" height="730"/>
+	<SubTexture name="deathloop0020" x="5" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0021" x="5" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0022" x="511" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0023" x="511" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0024" x="1017" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0025" x="1017" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0026" x="1017" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0027" x="1017" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0028" x="1017" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0029" x="1017" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0030" x="1017" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0031" x="1017" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0032" x="1017" y="2288" width="501" height="730"/>
+	<SubTexture name="deathloop0033" x="1017" y="2288" width="501" height="730"/>
+	<SubTexture name="lico dies0000" x="1523" y="2288" width="474" height="724" pivotX="-283.9" pivotY="-103.3" frameX="-31" frameY="0" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0001" x="2002" y="2288" width="474" height="724" frameX="-31" frameY="0" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0002" x="2481" y="2288" width="502" height="725" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0003" x="2988" y="2288" width="502" height="725" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0004" x="2988" y="2288" width="502" height="725" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0005" x="3495" y="2288" width="502" height="725" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0006" x="5" y="3023" width="502" height="725" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0007" x="5" y="3023" width="502" height="725" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0008" x="5" y="3023" width="502" height="725" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0009" x="5" y="3023" width="502" height="725" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0010" x="5" y="3023" width="502" height="725" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0011" x="5" y="3023" width="502" height="725" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0012" x="5" y="3023" width="502" height="725" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0013" x="5" y="3023" width="502" height="725" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0014" x="5" y="3023" width="502" height="725" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0015" x="512" y="3023" width="502" height="725" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0016" x="512" y="3023" width="502" height="725" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0017" x="512" y="3023" width="502" height="725" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0018" x="1019" y="3023" width="502" height="725" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0019" x="1019" y="3023" width="502" height="725" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0020" x="1526" y="3023" width="502" height="725" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0021" x="1526" y="3023" width="502" height="725" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0022" x="2033" y="3023" width="502" height="725" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0023" x="2033" y="3023" width="502" height="725" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0024" x="2540" y="3023" width="502" height="725" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0025" x="3047" y="3023" width="502" height="725" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0026" x="3554" y="3023" width="502" height="737" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0027" x="3554" y="3023" width="502" height="737" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0028" x="5" y="3765" width="502" height="728" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0029" x="5" y="3765" width="502" height="728" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0030" x="512" y="3765" width="502" height="732" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0031" x="512" y="3765" width="502" height="732" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0032" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0033" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0034" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0035" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0036" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0037" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0038" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0039" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0040" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0041" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0042" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0043" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0044" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0045" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0046" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0047" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0048" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0049" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0050" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0051" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0052" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0053" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0054" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0055" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0056" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="lico dies0057" x="1019" y="3765" width="502" height="730" frameX="0" frameY="-1" frameWidth="505" frameHeight="738"/>
+	<SubTexture name="licor down0000" x="1526" y="3765" width="442" height="687" pivotX="-440" pivotY="-208.8" frameX="-17" frameY="0" frameWidth="459" frameHeight="687"/>
+	<SubTexture name="licor down0001" x="1526" y="3765" width="442" height="687" frameX="-17" frameY="0" frameWidth="459" frameHeight="687"/>
+	<SubTexture name="licor down0002" x="1973" y="3765" width="454" height="677" frameX="0" frameY="-10" frameWidth="459" frameHeight="687"/>
+	<SubTexture name="licor down0003" x="1973" y="3765" width="454" height="677" frameX="0" frameY="-10" frameWidth="459" frameHeight="687"/>
+	<SubTexture name="licor down0004" x="2432" y="3765" width="451" height="682" frameX="-3" frameY="-5" frameWidth="459" frameHeight="687"/>
+	<SubTexture name="licor down0005" x="2432" y="3765" width="451" height="682" frameX="-3" frameY="-5" frameWidth="459" frameHeight="687"/>
+	<SubTexture name="licor down0006" x="2432" y="3765" width="451" height="682" frameX="-3" frameY="-5" frameWidth="459" frameHeight="687"/>
+	<SubTexture name="licor down0007" x="2432" y="3765" width="451" height="682" frameX="-3" frameY="-5" frameWidth="459" frameHeight="687"/>
+	<SubTexture name="licor down0008" x="2432" y="3765" width="451" height="682" frameX="-3" frameY="-5" frameWidth="459" frameHeight="687"/>
+	<SubTexture name="licor down0009" x="2432" y="3765" width="451" height="682" frameX="-3" frameY="-5" frameWidth="459" frameHeight="687"/>
+	<SubTexture name="licor down0010" x="2432" y="3765" width="451" height="682" frameX="-3" frameY="-5" frameWidth="459" frameHeight="687"/>
+	<SubTexture name="licor down0011" x="2432" y="3765" width="451" height="682" frameX="-3" frameY="-5" frameWidth="459" frameHeight="687"/>
+	<SubTexture name="licor down0012" x="2432" y="3765" width="451" height="682" frameX="-3" frameY="-5" frameWidth="459" frameHeight="687"/>
+	<SubTexture name="licor down0013" x="2432" y="3765" width="451" height="682" frameX="-3" frameY="-5" frameWidth="459" frameHeight="687"/>
+	<SubTexture name="licor down0014" x="2432" y="3765" width="451" height="682" frameX="-3" frameY="-5" frameWidth="459" frameHeight="687"/>
+	<SubTexture name="licor idle0000" x="2888" y="3765" width="491" height="712" pivotX="-285" pivotY="-115.9" frameX="-8" frameY="0" frameWidth="501" frameHeight="712"/>
+	<SubTexture name="licor idle0001" x="2888" y="3765" width="491" height="712" frameX="-8" frameY="0" frameWidth="501" frameHeight="712"/>
+	<SubTexture name="licor idle0002" x="3384" y="3765" width="501" height="709" frameX="0" frameY="-3" frameWidth="501" frameHeight="712"/>
+	<SubTexture name="licor idle0003" x="3384" y="3765" width="501" height="709" frameX="0" frameY="-3" frameWidth="501" frameHeight="712"/>
+	<SubTexture name="licor idle0004" x="5" y="4502" width="490" height="704" frameX="-10" frameY="-8" frameWidth="501" frameHeight="712"/>
+	<SubTexture name="licor idle0005" x="5" y="4502" width="490" height="704" frameX="-10" frameY="-8" frameWidth="501" frameHeight="712"/>
+	<SubTexture name="licor idle0006" x="500" y="4502" width="488" height="708" frameX="-12" frameY="-4" frameWidth="501" frameHeight="712"/>
+	<SubTexture name="licor idle0007" x="500" y="4502" width="488" height="708" frameX="-12" frameY="-4" frameWidth="501" frameHeight="712"/>
+	<SubTexture name="licor idle0008" x="993" y="4502" width="483" height="712" frameX="-17" frameY="0" frameWidth="501" frameHeight="712"/>
+	<SubTexture name="licor idle0009" x="993" y="4502" width="483" height="712" frameX="-17" frameY="0" frameWidth="501" frameHeight="712"/>
+	<SubTexture name="licor idle0010" x="1481" y="4502" width="482" height="712" frameX="-18" frameY="0" frameWidth="501" frameHeight="712"/>
+	<SubTexture name="licor idle0011" x="1481" y="4502" width="482" height="712" frameX="-18" frameY="0" frameWidth="501" frameHeight="712"/>
+	<SubTexture name="licor idle0012" x="1968" y="4502" width="484" height="712" frameX="-16" frameY="0" frameWidth="501" frameHeight="712"/>
+	<SubTexture name="licor idle0013" x="1968" y="4502" width="484" height="712" frameX="-16" frameY="0" frameWidth="501" frameHeight="712"/>
+	<SubTexture name="licor idle0014" x="1968" y="4502" width="484" height="712" frameX="-16" frameY="0" frameWidth="501" frameHeight="712"/>
+	<SubTexture name="licor left0000" x="2457" y="4502" width="497" height="720" pivotX="-376.2" pivotY="-174.75" frameX="-14" frameY="-3" frameWidth="511" frameHeight="723"/>
+	<SubTexture name="licor left0001" x="2457" y="4502" width="497" height="720" frameX="-14" frameY="-3" frameWidth="511" frameHeight="723"/>
+	<SubTexture name="licor left0002" x="2959" y="4502" width="511" height="723"/>
+	<SubTexture name="licor left0003" x="2959" y="4502" width="511" height="723"/>
+	<SubTexture name="licor left0004" x="3475" y="4502" width="504" height="723" frameX="-7" frameY="0" frameWidth="511" frameHeight="723"/>
+	<SubTexture name="licor left0005" x="3475" y="4502" width="504" height="723" frameX="-7" frameY="0" frameWidth="511" frameHeight="723"/>
+	<SubTexture name="licor left0006" x="3475" y="4502" width="504" height="723" frameX="-7" frameY="0" frameWidth="511" frameHeight="723"/>
+	<SubTexture name="licor left0007" x="3475" y="4502" width="504" height="723" frameX="-7" frameY="0" frameWidth="511" frameHeight="723"/>
+	<SubTexture name="licor left0008" x="3475" y="4502" width="504" height="723" frameX="-7" frameY="0" frameWidth="511" frameHeight="723"/>
+	<SubTexture name="licor left0009" x="3475" y="4502" width="504" height="723" frameX="-7" frameY="0" frameWidth="511" frameHeight="723"/>
+	<SubTexture name="licor left0010" x="3475" y="4502" width="504" height="723" frameX="-7" frameY="0" frameWidth="511" frameHeight="723"/>
+	<SubTexture name="licor left0011" x="3475" y="4502" width="504" height="723" frameX="-7" frameY="0" frameWidth="511" frameHeight="723"/>
+	<SubTexture name="licor left0012" x="3475" y="4502" width="504" height="723" frameX="-7" frameY="0" frameWidth="511" frameHeight="723"/>
+	<SubTexture name="licor left0013" x="3475" y="4502" width="504" height="723" frameX="-7" frameY="0" frameWidth="511" frameHeight="723"/>
+	<SubTexture name="licor left0014" x="3475" y="4502" width="504" height="723" frameX="-7" frameY="0" frameWidth="511" frameHeight="723"/>
+	<SubTexture name="licor right0000" x="5" y="5230" width="619" height="702" pivotX="372" pivotY="353.55"/>
+	<SubTexture name="licor right0001" x="5" y="5230" width="619" height="702"/>
+	<SubTexture name="licor right0002" x="629" y="5230" width="551" height="696" frameX="-59" frameY="-6" frameWidth="619" frameHeight="702"/>
+	<SubTexture name="licor right0003" x="629" y="5230" width="551" height="696" frameX="-59" frameY="-6" frameWidth="619" frameHeight="702"/>
+	<SubTexture name="licor right0004" x="1185" y="5230" width="560" height="700" frameX="-50" frameY="-2" frameWidth="619" frameHeight="702"/>
+	<SubTexture name="licor right0005" x="1185" y="5230" width="560" height="700" frameX="-50" frameY="-2" frameWidth="619" frameHeight="702"/>
+	<SubTexture name="licor right0006" x="1185" y="5230" width="560" height="700" frameX="-50" frameY="-2" frameWidth="619" frameHeight="702"/>
+	<SubTexture name="licor right0007" x="1185" y="5230" width="560" height="700" frameX="-50" frameY="-2" frameWidth="619" frameHeight="702"/>
+	<SubTexture name="licor right0008" x="1185" y="5230" width="560" height="700" frameX="-50" frameY="-2" frameWidth="619" frameHeight="702"/>
+	<SubTexture name="licor right0009" x="1185" y="5230" width="560" height="700" frameX="-50" frameY="-2" frameWidth="619" frameHeight="702"/>
+	<SubTexture name="licor right0010" x="1185" y="5230" width="560" height="700" frameX="-50" frameY="-2" frameWidth="619" frameHeight="702"/>
+	<SubTexture name="licor right0011" x="1185" y="5230" width="560" height="700" frameX="-50" frameY="-2" frameWidth="619" frameHeight="702"/>
+	<SubTexture name="licor right0012" x="1185" y="5230" width="560" height="700" frameX="-50" frameY="-2" frameWidth="619" frameHeight="702"/>
+	<SubTexture name="licor right0013" x="1185" y="5230" width="560" height="700" frameX="-50" frameY="-2" frameWidth="619" frameHeight="702"/>
+	<SubTexture name="licor right0014" x="1185" y="5230" width="560" height="700" frameX="-50" frameY="-2" frameWidth="619" frameHeight="702"/>
+	<SubTexture name="licor up 0000" x="1750" y="5230" width="505" height="736" pivotX="-475.35" pivotY="-166.15" frameX="-3" frameY="-1" frameWidth="509" frameHeight="737"/>
+	<SubTexture name="licor up 0001" x="1750" y="5230" width="505" height="736" frameX="-3" frameY="-1" frameWidth="509" frameHeight="737"/>
+	<SubTexture name="licor up 0002" x="2260" y="5230" width="504" height="737" frameX="-5" frameY="0" frameWidth="509" frameHeight="737"/>
+	<SubTexture name="licor up 0003" x="2260" y="5230" width="504" height="737" frameX="-5" frameY="0" frameWidth="509" frameHeight="737"/>
+	<SubTexture name="licor up 0004" x="2769" y="5230" width="509" height="737"/>
+	<SubTexture name="licor up 0005" x="2769" y="5230" width="509" height="737"/>
+	<SubTexture name="licor up 0006" x="2769" y="5230" width="509" height="737"/>
+	<SubTexture name="licor up 0007" x="2769" y="5230" width="509" height="737"/>
+	<SubTexture name="licor up 0008" x="2769" y="5230" width="509" height="737"/>
+	<SubTexture name="licor up 0009" x="2769" y="5230" width="509" height="737"/>
+	<SubTexture name="licor up 0010" x="2769" y="5230" width="509" height="737"/>
+	<SubTexture name="licor up 0011" x="2769" y="5230" width="509" height="737"/>
+	<SubTexture name="licor up 0012" x="2769" y="5230" width="509" height="737"/>
+	<SubTexture name="licor up 0013" x="2769" y="5230" width="509" height="737"/>
+	<SubTexture name="licor up 0014" x="2769" y="5230" width="509" height="737"/>
+	<SubTexture name="licorice down MISS0000" x="1526" y="3765" width="442" height="687" pivotX="-440" pivotY="-208.8" frameX="-13" frameY="0" frameWidth="459" frameHeight="687"/>
+	<SubTexture name="licorice down MISS0001" x="3283" y="5230" width="460" height="679" frameX="0" frameY="-7" frameWidth="460" frameHeight="686"/>
+	<SubTexture name="licorice down MISS0002" x="3283" y="5230" width="460" height="679" frameX="0" frameY="-7" frameWidth="460" frameHeight="686"/>
+	<SubTexture name="licorice down MISS0003" x="5" y="5972" width="450" height="683" frameX="-5" frameY="-3" frameWidth="460" frameHeight="686"/>
+	<SubTexture name="licorice down MISS0004" x="5" y="5972" width="450" height="683" frameX="-5" frameY="-3" frameWidth="460" frameHeight="686"/>
+	<SubTexture name="licorice down MISS0005" x="460" y="5972" width="450" height="683" frameX="-5" frameY="-3" frameWidth="460" frameHeight="686"/>
+	<SubTexture name="licorice down MISS0006" x="460" y="5972" width="450" height="683" frameX="-5" frameY="-3" frameWidth="460" frameHeight="686"/>
+	<SubTexture name="licorice down MISS0007" x="5" y="5972" width="450" height="683" frameX="-5" frameY="-3" frameWidth="460" frameHeight="686"/>
+	<SubTexture name="licorice down MISS0008" x="5" y="5972" width="450" height="683" frameX="-5" frameY="-3" frameWidth="460" frameHeight="686"/>
+	<SubTexture name="licorice down MISS0009" x="460" y="5972" width="450" height="683" frameX="-5" frameY="-3" frameWidth="460" frameHeight="686"/>
+	<SubTexture name="licorice down MISS0010" x="460" y="5972" width="450" height="683" frameX="-5" frameY="-3" frameWidth="460" frameHeight="686"/>
+	<SubTexture name="licorice down MISS0011" x="5" y="5972" width="450" height="683" frameX="-5" frameY="-3" frameWidth="460" frameHeight="686"/>
+	<SubTexture name="licorice down MISS0012" x="5" y="5972" width="450" height="683" frameX="-5" frameY="-3" frameWidth="460" frameHeight="686"/>
+	<SubTexture name="licorice down MISS0013" x="460" y="5972" width="450" height="683" frameX="-5" frameY="-3" frameWidth="460" frameHeight="686"/>
+	<SubTexture name="licorice down MISS0014" x="460" y="5972" width="450" height="683" frameX="-5" frameY="-3" frameWidth="460" frameHeight="686"/>
+	<SubTexture name="licorice left MISS0000" x="915" y="5972" width="619" height="704" pivotX="-16.2" pivotY="-15.65" frameX="0" frameY="0" frameWidth="622" frameHeight="704"/>
+	<SubTexture name="licorice left MISS0001" x="1539" y="5972" width="622" height="694" frameX="0" frameY="-8" frameWidth="622" frameHeight="704"/>
+	<SubTexture name="licorice left MISS0002" x="1539" y="5972" width="622" height="694" frameX="0" frameY="-8" frameWidth="622" frameHeight="704"/>
+	<SubTexture name="licorice left MISS0003" x="2166" y="5972" width="609" height="698" frameX="-6" frameY="-4" frameWidth="622" frameHeight="704"/>
+	<SubTexture name="licorice left MISS0004" x="2166" y="5972" width="609" height="698" frameX="-6" frameY="-4" frameWidth="622" frameHeight="704"/>
+	<SubTexture name="licorice left MISS0005" x="2780" y="5972" width="609" height="698" frameX="-6" frameY="-4" frameWidth="622" frameHeight="704"/>
+	<SubTexture name="licorice left MISS0006" x="2780" y="5972" width="609" height="698" frameX="-6" frameY="-4" frameWidth="622" frameHeight="704"/>
+	<SubTexture name="licorice left MISS0007" x="2166" y="5972" width="609" height="698" frameX="-6" frameY="-4" frameWidth="622" frameHeight="704"/>
+	<SubTexture name="licorice left MISS0008" x="2166" y="5972" width="609" height="698" frameX="-6" frameY="-4" frameWidth="622" frameHeight="704"/>
+	<SubTexture name="licorice left MISS0009" x="2780" y="5972" width="609" height="698" frameX="-6" frameY="-4" frameWidth="622" frameHeight="704"/>
+	<SubTexture name="licorice left MISS0010" x="2780" y="5972" width="609" height="698" frameX="-6" frameY="-4" frameWidth="622" frameHeight="704"/>
+	<SubTexture name="licorice left MISS0011" x="2166" y="5972" width="609" height="698" frameX="-6" frameY="-4" frameWidth="622" frameHeight="704"/>
+	<SubTexture name="licorice left MISS0012" x="2166" y="5972" width="609" height="698" frameX="-6" frameY="-4" frameWidth="622" frameHeight="704"/>
+	<SubTexture name="licorice left MISS0013" x="2780" y="5972" width="609" height="698" frameX="-6" frameY="-4" frameWidth="622" frameHeight="704"/>
+	<SubTexture name="licorice left MISS0014" x="2780" y="5972" width="609" height="698" frameX="-6" frameY="-4" frameWidth="622" frameHeight="704"/>
+	<SubTexture name="licorice right MISS0000" x="3394" y="5972" width="497" height="719" pivotX="-455.95" pivotY="11.95" frameX="-11" frameY="-11" frameWidth="509" frameHeight="730"/>
+	<SubTexture name="licorice right MISS0001" x="5" y="6696" width="509" height="724" frameX="0" frameY="-6" frameWidth="509" frameHeight="730"/>
+	<SubTexture name="licorice right MISS0002" x="519" y="6696" width="509" height="724" frameX="0" frameY="-6" frameWidth="509" frameHeight="730"/>
+	<SubTexture name="licorice right MISS0003" x="1033" y="6696" width="501" height="730" frameX="-4" frameY="0" frameWidth="509" frameHeight="730"/>
+	<SubTexture name="licorice right MISS0004" x="1539" y="6696" width="501" height="730" frameX="-4" frameY="0" frameWidth="509" frameHeight="730"/>
+	<SubTexture name="licorice right MISS0005" x="1539" y="6696" width="501" height="730" frameX="-4" frameY="0" frameWidth="509" frameHeight="730"/>
+	<SubTexture name="licorice right MISS0006" x="1033" y="6696" width="501" height="730" frameX="-4" frameY="0" frameWidth="509" frameHeight="730"/>
+	<SubTexture name="licorice right MISS0007" x="1033" y="6696" width="501" height="730" frameX="-4" frameY="0" frameWidth="509" frameHeight="730"/>
+	<SubTexture name="licorice right MISS0008" x="1539" y="6696" width="501" height="730" frameX="-4" frameY="0" frameWidth="509" frameHeight="730"/>
+	<SubTexture name="licorice right MISS0009" x="1539" y="6696" width="501" height="730" frameX="-4" frameY="0" frameWidth="509" frameHeight="730"/>
+	<SubTexture name="licorice right MISS0010" x="1033" y="6696" width="501" height="730" frameX="-4" frameY="0" frameWidth="509" frameHeight="730"/>
+	<SubTexture name="licorice right MISS0011" x="1033" y="6696" width="501" height="730" frameX="-4" frameY="0" frameWidth="509" frameHeight="730"/>
+	<SubTexture name="licorice right MISS0012" x="1539" y="6696" width="501" height="730" frameX="-4" frameY="0" frameWidth="509" frameHeight="730"/>
+	<SubTexture name="licorice right MISS0013" x="1539" y="6696" width="501" height="730" frameX="-4" frameY="0" frameWidth="509" frameHeight="730"/>
+	<SubTexture name="licorice right MISS0014" x="1033" y="6696" width="501" height="730" frameX="-4" frameY="0" frameWidth="509" frameHeight="730"/>
+	<SubTexture name="licorice up MISS0000" x="2045" y="6696" width="504" height="736" pivotX="80.65" pivotY="-3.45" frameX="-74" frameY="-2" frameWidth="585" frameHeight="738"/>
+	<SubTexture name="licorice up MISS0001" x="2554" y="6696" width="585" height="732" frameX="0" frameY="-4" frameWidth="585" frameHeight="738"/>
+	<SubTexture name="licorice up MISS0002" x="2554" y="6696" width="585" height="732" frameX="0" frameY="-4" frameWidth="585" frameHeight="738"/>
+	<SubTexture name="licorice up MISS0003" x="3144" y="6696" width="577" height="736" frameX="-5" frameY="0" frameWidth="585" frameHeight="738"/>
+	<SubTexture name="licorice up MISS0004" x="3144" y="6696" width="577" height="736" frameX="-5" frameY="0" frameWidth="585" frameHeight="738"/>
+	<SubTexture name="licorice up MISS0005" x="5" y="7437" width="577" height="736" frameX="-5" frameY="0" frameWidth="585" frameHeight="738"/>
+	<SubTexture name="licorice up MISS0006" x="5" y="7437" width="577" height="736" frameX="-5" frameY="0" frameWidth="585" frameHeight="738"/>
+	<SubTexture name="licorice up MISS0007" x="3144" y="6696" width="577" height="736" frameX="-5" frameY="0" frameWidth="585" frameHeight="738"/>
+	<SubTexture name="licorice up MISS0008" x="3144" y="6696" width="577" height="736" frameX="-5" frameY="0" frameWidth="585" frameHeight="738"/>
+	<SubTexture name="licorice up MISS0009" x="5" y="7437" width="577" height="736" frameX="-5" frameY="0" frameWidth="585" frameHeight="738"/>
+	<SubTexture name="licorice up MISS0010" x="5" y="7437" width="577" height="736" frameX="-5" frameY="0" frameWidth="585" frameHeight="738"/>
+	<SubTexture name="licorice up MISS0011" x="3144" y="6696" width="577" height="736" frameX="-5" frameY="0" frameWidth="585" frameHeight="738"/>
+	<SubTexture name="licorice up MISS0012" x="3144" y="6696" width="577" height="736" frameX="-5" frameY="0" frameWidth="585" frameHeight="738"/>
+	<SubTexture name="licorice up MISS0013" x="5" y="7437" width="577" height="736" frameX="-5" frameY="0" frameWidth="585" frameHeight="738"/>
+	<SubTexture name="licorice up MISS0014" x="5" y="7437" width="577" height="736" frameX="-5" frameY="0" frameWidth="585" frameHeight="738"/>
+</TextureAtlas>

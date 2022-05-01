@@ -13,7 +13,7 @@ licorice:left bf:right
 :1:talk:0.05:normal:Boop ba?
 :0:confused:0.05:confusedIdle:...
 :0:talk:0.05:neutral:Alright, fine. One more song. Just until\nthe train arrives.
-:0:talk:0.05:neutralIdle:(...I guess I'll give him\nwhere credit is due...)
+:0:talk:0.05:neutralIdle:(...I guess I'll give him credit\nwhere credit is due...)
 :0:talk:0.05:neutralIdle:(...He does have some nice beats on him...)
 
 

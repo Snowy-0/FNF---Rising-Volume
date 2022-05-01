@@ -598,9 +598,11 @@ class PlayState extends MusicBeatState
 				bg.updateHitbox();
 				add(bg);
 				
-				var benches:BGSprite = new BGSprite('benches', -800, -405, 0.95, 0.98);
+				var benches:BGSprite = new BGSprite('Cameos', -500, -205, 1, 1, ['Bench'], true);
 				benches.setGraphicSize(Std.int(bg.width * 0.8));
+				benches.updateHitbox();
 				add(benches);
+				benches.antialiasing = false;			
 
 				subwayTrain = new BGSprite('lico_train', 4000, 180);
 				subwayTrain.scale.set(1.4, 1.4);
@@ -2866,9 +2868,6 @@ class PlayState extends MusicBeatState
 	function finishSong():Void
 	{
 		var finishCallback:Void->Void = endSong; //In case you want to change it in a specific song.
-
-		if (SONG.song.toLowerCase() == "livin-it")
-			finishCallback = startPost;
 
 		updateTime = false;
 		FlxG.sound.music.volume = 0;

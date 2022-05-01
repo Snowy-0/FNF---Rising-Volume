@@ -16,10 +16,10 @@
 				339,
 				-57
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
+			"indices": [],
 			"name": "Lico-Right0"
 		},
 		{
@@ -27,10 +27,10 @@
 				163,
 				-74
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
+			"indices": [],
 			"name": "Lico-Down0"
 		},
 		{
@@ -38,10 +38,10 @@
 				155,
 				126
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
+			"indices": [],
 			"name": "Lico-Up0"
 		},
 		{
@@ -49,10 +49,10 @@
 				153,
 				127
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singUPmiss",
-			"loop": false,
+			"indices": [],
 			"name": "Lico-Up-Miss0"
 		},
 		{
@@ -60,10 +60,10 @@
 				176,
 				-36
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singDOWNmiss",
-			"loop": false,
+			"indices": [],
 			"name": "Lico-Down-Miss0"
 		},
 		{
@@ -71,10 +71,10 @@
 				366,
 				-54
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"loop": false,
+			"indices": [],
 			"name": "Lico-Right-Miss0"
 		},
 		{
@@ -82,10 +82,10 @@
 				268,
 				11
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singLEFTmiss",
-			"loop": false,
+			"indices": [],
 			"name": "Lico-Left-Miss0"
 		},
 		{
@@ -93,10 +93,10 @@
 				311,
 				90
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "deathLoop",
-			"loop": false,
+			"indices": [],
 			"name": "Lico-Death-Loop0"
 		},
 		{
@@ -104,10 +104,10 @@
 				315,
 				95
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "firstDeath",
-			"loop": false,
+			"indices": [],
 			"name": "Lico-Death0"
 		},
 		{
@@ -115,17 +115,17 @@
 				272,
 				-24
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
+			"indices": [],
 			"name": "Lico-Left0"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/Update-LicoHR",
 	"position": [
-		80,
+		240,
 		27
 	],
 	"healthicon": "licorice",
@@ -136,7 +136,7 @@
 		0
 	],
 	"camera_position": [
-		0,
+		490,
 		0
 	],
 	"sing_duration": 4,
